@@ -73,6 +73,11 @@
 - **Burp Suite Community** - Free tool for manual vulnerability assessments of web apps.
 - **Nmap** - Network discovery and security auditing tool, great for network vulnerability checks.
 - **Wireshark** - Network protocol analyzer, helpful for quick network debugging.
+- **Metasploit** - A tool used by cyber security professionals to do penetration tests.
+- **SqlMap** - A penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database.
+- **wfuzz** - Web application fuzz testing cli tool
+- **Sudomy** - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance
+- **Frida** - It's reverse engineering tool for Android and Windows applications.
 
 ### **Hosting & Deployment**
 - **Vercel** - One-click deployment for frontend frameworks, with auto scaling and global CDN.
