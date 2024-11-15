@@ -1,5 +1,7 @@
 # Awesome-Hackathon
 
+Tools and resources to help you build, design, and win hackathons! 🏆
+
 ### **Frontend Development**
 
 - **React** - JavaScript library with reusable components, great for rapid UI development.
