@@ -162,7 +162,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### **Game Development**
 
-- **Unity Personal** - Free game engine for indie developers, ideal for rapid 2D and 3D games.
+- **Unity Personal** - Free game engine for indie developers, ideal for cross-platform, rapid and blitz 2D/3D games.
 - **GDevelop** - No-code game creation tool with fast setup, suitable for quick prototypes.
 - **Godot** - Open-source game engine, perfect for lightweight 2D and 3D games.
 - **Tiled** - Free tool for creating 2D tile maps, great for game prototyping.
