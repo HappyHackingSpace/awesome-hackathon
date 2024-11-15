@@ -43,6 +43,7 @@
 - **Mapbox** - Easy-to-use maps and geolocation service with a generous free tier.
 - **SheetDB** - Turns Google Sheets into a REST API for quick MVP data handling.
 - **Mocky** - Tool for generating custom mock APIs.
+- **Mockaroo** - Mock tool to generate up to 1,000 rows of test data in CSV, JSON, SQL, and Excel formats.
 - **JsonPlaceholder** - Fake online REST API for quick prototyping and testing.
 
 ### **AI & ML**
@@ -127,4 +128,8 @@
 - **Construct 3** - No-code game development platform with a free tier for building prototypes.
 - **Stability.ai** - For stable models
 - **DeepMotion** - Text to 3D animation and Video to 3D animation app.
+
+### **Design & Art**
+- **Blender** - Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, BSD, Haiku, IRIX and Linux.
+- **Pixilart** - Free browser-based pixelart app.
 
