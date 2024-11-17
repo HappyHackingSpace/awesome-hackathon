@@ -2,6 +2,51 @@
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
+## Ideation & Inspiration
+
+### Inspiration
+
+- **Evernote Design** - All in One Bookmark Links for Designer
+- **Unarkhive** - Explore curated links across various categories, updated daily.
+- **saasui.design** - SaasUI showcases top-tier SaaS application designs.
+- **SCRNSHTS** - A hand-picked collection of the finest app store design screenshots
+- **Saaspo** - The best SaaS Web Design Inspiration
+
+
+## Planning & Prototyping
+
+### **Prototyping & Design**
+
+- **Figma** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
+- **Canva** - Simple, user-friendly design tool with templates for web and mobile mockups.
+- **Whimsical** - Drag-and-drop wireframing tool, great for quick prototyping and ideation.
+- **InVision Freehand** - Digital whiteboard for brainstorming and UI mockups.
+- **Adobe XD Free** - Lightweight design tool for creating simple wireframes and prototypes.
+- **GIMP** - An open-source image editor comparable to Photoshop, used for graphic design and photo retouching.
+- **Excalidraw** - A collaborative whiteboard tool for sketch-style diagrams, ideal for brainstorming and real-time visual collaboration.
+- **LibreOffice** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
+- **Kdenlive** - A professional-grade, open-source video editor for multi-track video creation and editing.
+
+### **UI Library**
+
+- **Shadcn UI** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
+- **Cult UI** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
+- **Magic UI** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
+
+### **Fonts**
+
+- **Geist Font** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
+- **Onest** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
+
+### **Icons**
+
+- **Phosphor Icons** - A versatile icon family for interfaces, diagrams, and more.
+- **Radix Icons** - An open-source component library for fast, accessible, and hassle-free development.
+- **Lucide Icons** - Beautiful & consistent icon toolkit made by the community.
+- **Geist Icons** - A collection of icons used across Vercel products.
+
+## Development
+
 ### **Frontend Development**
 
 - **React** - JavaScript library with reusable components, great for rapid UI development.
@@ -10,20 +55,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **Bootstrap** - CSS framework with pre-designed, responsive components for fast layouts.
 - **Tailwind CSS** - Utility-based CSS framework for quick styling, no custom design needed.
 - **Parcel** - Zero-config bundler, ideal for quickly getting apps up and running.
-
-### **UI Library**
-
-- **Shadcn UI** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
-- **Cult UI** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
-- **Magic UI** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
-
-### **Inspiration**
-
-- **Evernote Design** - All in One Bookmark Links for Designer
-- **Unarkhive** - Explore curated links across various categories, updated daily.
-- **saasui.design** - SaasUI showcases top-tier SaaS application designs.
-- **SCRNSHTS** - A hand-picked collection of the finest app store design screenshots
-- **Saaspo** - The best SaaS Web Design Inspiration
 
 ### **Backend Development**
 
@@ -88,14 +119,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **Pandas Profiling** - Auto-generate data analysis reports from Pandas DataFrames.
 - **Kaggle Datasets** - Access open datasets for building data-driven MVPs quickly.
 
-### **Data Visualization**
-
-- **Plotly** - Interactive graphing for data visualization in Python.
-- **Tableau Public** - Free version for creating interactive, shareable data dashboards.
-- **Google Charts** - Simple API for adding data visualizations to your website.
-- **Chart.js** - Lightweight JavaScript library for quick and easy charts on the frontend.
-- **Draw.io** - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
-
 ### **Cybersecurity**
 
 - **Nuclei** - Open-source vulnerability scanner powered by the global security community for finding vulnerabilities.
@@ -108,49 +131,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **wfuzz** - Web application fuzz testing cli tool
 - **Sudomy** - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance
 - **Frida** - It's reverse engineering tool for Android and Windows applications.
-
-### **Hosting & Deployment**
-
-- **Vercel** - One-click deployment for frontend frameworks, with auto scaling and global CDN.
-- **Netlify** - Free static hosting with CI/CD, deploys apps directly from GitHub.
-- **Glitch** - In-browser IDE for deploying small Node.js apps instantly, great for demos.
-- **GitHub Pages** - Free hosting for static websites, ideal for deploying simple frontend MVPs.
-
-### **Serverless & Cloud Functions**
-
-- **AWS Lambda Free Tier** - Run code in response to events with minimal setup.
-- **Google Cloud Functions Free Tier** - Serverless functions for small, event-driven tasks.
-- **Vercel Serverless Functions** - Built-in serverless functions for API routes in frontend apps.
-- **Cloudflare Workers** - Serverless compute at the edge, with free tier for lightweight apps.
-
-### **Prototyping & Design**
-
-- **Figma** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
-- **Canva** - Simple, user-friendly design tool with templates for web and mobile mockups.
-- **Whimsical** - Drag-and-drop wireframing tool, great for quick prototyping and ideation.
-- **InVision Freehand** - Digital whiteboard for brainstorming and UI mockups.
-- **Adobe XD Free** - Lightweight design tool for creating simple wireframes and prototypes.
-- **GIMP** - An open-source image editor comparable to Photoshop, used for graphic design and photo retouching.
-- **Excalidraw** - A collaborative whiteboard tool for sketch-style diagrams, ideal for brainstorming and real-time visual collaboration.
-- **LibreOffice** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
-- **Kdenlive** - A professional-grade, open-source video editor for multi-track video creation and editing.
-
-### **Real-time Communication & Collaboration**
-
-- **Slack** - Communication tool with channels, great for team coordination.
-- **Discord** - Voice, video, and chat communication for team discussions and quick feedback.
-- **Trello** - Kanban-style board for task tracking, easy to set up and use.
-- **Notion** - Workspace for organizing notes, ideas, and tasks in one place.
-- **Miro** - Interactive whiteboard for brainstorming, flowcharting, and visual planning.
-- **HackMD** - Real-time markdown collaboration tool for project documentation
-
-### **Testing & Quality Assurance**
-
-- **Postman** - API testing tool with intuitive interface, good for testing API endpoints.
-- **Jest** - JavaScript testing framework, easy setup with React and Node.js projects.
-- **Cypress** - JavaScript end-to-end testing framework for web applications.
-- **Selenium IDE** - Browser extension for creating simple UI tests without code.
-- **Mockoon** - Mock API server to simulate APIs for testing without a backend.
 
 ### **Blockchain & Web3**
 
@@ -170,19 +150,54 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **Stability.ai** - For stable models
 - **DeepMotion** - Text to 3D animation and Video to 3D animation app.
 
+### **Data Visualization**
+
+- **Plotly** - Interactive graphing for data visualization in Python.
+- **Tableau Public** - Free version for creating interactive, shareable data dashboards.
+- **Google Charts** - Simple API for adding data visualizations to your website.
+- **Chart.js** - Lightweight JavaScript library for quick and easy charts on the frontend.
+- **Draw.io** - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
+
 ### **Design & Art**
 
 - **Blender** - Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, BSD, Haiku, IRIX and Linux.
 - **Pixilart** - Free browser-based pixelart app.
 
-### **Font**
+## **Testing & Quality Assurance**
 
-- **Geist Font** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
-- **Onest** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
+- **Postman** - API testing tool with intuitive interface, good for testing API endpoints.
+- **Jest** - JavaScript testing framework, easy setup with React and Node.js projects.
+- **Cypress** - JavaScript end-to-end testing framework for web applications.
+- **Selenium IDE** - Browser extension for creating simple UI tests without code.
+- **Mockoon** - Mock API server to simulate APIs for testing without a backend.
 
-### **Icon**
+## Deployment & Hosting
 
-- **Phosphor Icons** - A versatile icon family for interfaces, diagrams, and more.
-- **Radix Icons** - An open-source component library for fast, accessible, and hassle-free development.
-- **Lucide Icons** - Beautiful & consistent icon toolkit made by the community.
-- **Geist Icons** - A collection of icons used across Vercel products.
+### **Hosting & Deployment**
+
+- **Vercel** - One-click deployment for frontend frameworks, with auto scaling and global CDN.
+- **Netlify** - Free static hosting with CI/CD, deploys apps directly from GitHub.
+- **Glitch** - In-browser IDE for deploying small Node.js apps instantly, great for demos.
+- **GitHub Pages** - Free hosting for static websites, ideal for deploying simple frontend MVPs.
+
+### **Serverless & Cloud Functions**
+
+- **AWS Lambda Free Tier** - Run code in response to events with minimal setup.
+- **Google Cloud Functions Free Tier** - Serverless functions for small, event-driven tasks.
+- **Vercel Serverless Functions** - Built-in serverless functions for API routes in frontend apps.
+- **Cloudflare Workers** - Serverless compute at the edge, with free tier for lightweight apps.
+
+## Collaboration & Communication
+
+- **Slack** - Communication tool with channels, great for team coordination.
+- **Discord** - Voice, video, and chat communication for team discussions and quick feedback.
+- **Trello** - Kanban-style board for task tracking, easy to set up and use.
+- **Notion** - Workspace for organizing notes, ideas, and tasks in one place.
+- **Miro** - Interactive whiteboard for brainstorming, flowcharting, and visual planning.
+- **HackMD** - Real-time markdown collaboration tool for project documentation
+
+## Presentation & Pitching
+
+- Canva - User-friendly design tool with templates for presentations.
+- LibreOffice Impress - Free tool for creating presentations.
+- Google Slides - Collaborative presentation tool.
