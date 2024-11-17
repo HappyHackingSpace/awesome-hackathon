@@ -201,3 +201,4 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - [Canva](https://www.canva.com/) - User-friendly design tool with templates for presentations.
 - [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) - Free tool for creating presentations.
 - [Google Slides](https://www.google.com/slides/about/) - Collaborative presentation tool.
+- [ElevenLabs](https://elevenlabs.io) - Create realistic speech with AI audio platform
