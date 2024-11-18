@@ -12,7 +12,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[SCRNSHTS](https://scrnshts.club/)** - A hand-picked collection of the finest app store design screenshots.
 - **[Saaspo](https://saaspo.com/)** - The best SaaS web design inspiration.
 
-
 ## Planning & Prototyping
 
 ### **Prototyping & Design**
@@ -202,3 +201,29 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) - Free tool for creating presentations.
 - [Google Slides](https://www.google.com/slides/about/) - Collaborative presentation tool.
 - [ElevenLabs](https://elevenlabs.io) - Create realistic speech with AI audio platform
+
+## Extension
+
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Adds React debugging tools to the Chrome Developer Tools.
+- [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - The easiest way to identify fonts on web pages.
+- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and more.
+- [CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
+
+## Illustration
+
+- [404 Illustrations](https://error404.fun) - Royalty free illustrations for 404 pages
+- [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
+- [SVG Illustrations](https://lukaszadam.com/illustrations) - Free SVG Illustrations
+- [Open Peeps](https://www.openpeeps.com) - Open Peeps is a hand-drawn illustration library to create scenes of people.
+- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- [Popsy](https://popsy.co/illustrations) - The biggest free Notion illustration set.
+
+## Generator & Snippet
+
+- [Vercel OG Image Playground](https://og-playground.vercel.app) - Generate Open Graph images with Vercel’s Edge Function.
+- [Scrollbar.app](https://scrollbar.app) - Simple CSS scrollbar editor.
+- [Tailwind CSS Color Generator](https://uicolors.app/create) - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
+- [bg.ibelick](https://bg.ibelick.com) - Collection of modern, background snippets
+- [Gradiently](https://gradienty.codes) - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
+- [Haikei](https://app.haikei.app) - A web-based design tool to generate unique SVG design assets for websites
