@@ -60,6 +60,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Excalidraw](https://excalidraw.com/)** - A collaborative whiteboard tool for sketch-style diagrams, ideal for brainstorming and real-time visual collaboration.
 - **[LibreOffice](https://www.libreoffice.org/)** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
 - **[Kdenlive](https://kdenlive.org/)** - A professional-grade, open-source video editor for multi-track video creation and editing.
+- **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for creating interactive and realistic app mockups.
 
 ## Development
 
@@ -71,6 +72,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Bootstrap](https://getbootstrap.com/)** - CSS framework with pre-designed, responsive components for fast layouts.
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling, no custom design needed.
 - **[Parcel](https://parceljs.org/)** - Zero-config bundler, ideal for quickly getting apps up and running.
+- **[SvelteKit](https://svelte.dev/)** - A fast and lightweight framework for building web applications with minimal boilerplate.
 
 #### UI Library
 
@@ -131,6 +133,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Google Colab](https://colab.research.google.com/)** - Free Jupyter notebook with GPU support for quick prototyping of ML models.
 - **[IBM Watson AI](https://www.ibm.com/cloud/watson)** - NLP, vision, and language tools with free tier for basic tasks.
 - **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos.
+- **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 
 ### Data Engineering & Big Data
 
@@ -251,6 +254,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Notion](https://www.notion.so/)** - Workspace for organizing notes, ideas, and tasks in one place.
 - **[Miro](https://miro.com/)** - Interactive whiteboard for brainstorming, flowcharting, and visual planning.
 - **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration tool for project documentation.
+- **[Coda](https://coda.io/)** - A powerful document tool that blends text and tables for real-time project tracking.
 
 ## Presentation & Pitching
 
