@@ -2,6 +2,43 @@
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
+## Table of Contents
+
+- [Awesome-Hackathon](#awesome-hackathon)
+  - [Table of Contents](#table-of-contents)
+  - [Ideation \& Inspiration](#ideation--inspiration)
+    - [Inspiration](#inspiration)
+  - [Planning \& Prototyping](#planning--prototyping)
+    - [Prototyping \& Design](#prototyping--design)
+    - [UI Library](#ui-library)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
+  - [Development](#development)
+    - [Frontend Development](#frontend-development)
+    - [Backend Development](#backend-development)
+    - [Mobile Development](#mobile-development)
+    - [Database \& Storage](#database--storage)
+    - [**Authentication \& Authorization**](#authentication--authorization)
+    - [**APIs \& Data Access**](#apis--data-access)
+    - [**AI \& ML**](#ai--ml)
+    - [**Data Engineering \& Big Data**](#data-engineering--big-data)
+    - [**Cybersecurity**](#cybersecurity)
+    - [**Blockchain \& Web3**](#blockchain--web3)
+    - [**Game Development**](#game-development)
+    - [**Data Visualization**](#data-visualization)
+    - [**Design \& Art**](#design--art)
+  - [**Testing \& Quality Assurance**](#testing--quality-assurance)
+  - [Deployment \& Hosting](#deployment--hosting)
+    - [**Hosting \& Deployment**](#hosting--deployment)
+    - [**Serverless \& Cloud Functions**](#serverless--cloud-functions)
+  - [Collaboration \& Communication](#collaboration--communication)
+  - [Presentation \& Pitching](#presentation--pitching)
+  - [Extension](#extension)
+  - [Illustration](#illustration)
+  - [Generator \& Snippet](#generator--snippet)
+
+---
+
 ## Ideation & Inspiration
 
 ### Inspiration
@@ -14,7 +51,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Planning & Prototyping
 
-### **Prototyping & Design**
+### Prototyping & Design
 
 - **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
 - **[Canva](https://www.canva.com/)** - Simple, user-friendly design tool with templates for web and mobile mockups.
@@ -26,18 +63,18 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[LibreOffice](https://www.libreoffice.org/)** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
 - **[Kdenlive](https://kdenlive.org/)** - A professional-grade, open-source video editor for multi-track video creation and editing.
 
-### **UI Library**
+### UI Library
 
 - **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
 - **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
 - **[Magic UI](https://magicui.design)** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
 
-### **Fonts**
+### Fonts
 
 - **[Geist Font](https://vercel.com/font)** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
 - **[Onest](https://github.com/simpals/onest)** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
 
-### **Icons**
+### Icons
 
 - **[Phosphor Icons](https://phosphoricons.com/)** - A versatile icon family for interfaces, diagrams, and more.
 - **[Radix Icons](https://icons.radix-ui.com/)** - An open-source component library for fast, accessible, and hassle-free development.
@@ -46,7 +83,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Development
 
-### **Frontend Development**
+### Frontend Development
 
 - **[React](https://reactjs.org/)** - JavaScript library with reusable components, great for rapid UI development.
 - **[Next.js](https://nextjs.org/)** - Powers high-quality web apps for the world’s leading companies, leveraging React's capabilities.
@@ -55,7 +92,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling, no custom design needed.
 - **[Parcel](https://parceljs.org/)** - Zero-config bundler, ideal for quickly getting apps up and running.
 
-### **Backend Development**
+### Backend Development
 
 - **[Express.js](https://expressjs.com/)** - Minimalist Node.js framework, easy to set up REST APIs in minutes.
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Python framework for building APIs quickly, with built-in OpenAPI docs.
@@ -63,14 +100,14 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment, useful for real-time updates.
 - **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instantly creates a GraphQL API.
 
-### **Mobile Development**
+### Mobile Development
 
 - **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development with React Native.
 - **[Flutter](https://flutter.dev/)** - Google’s UI toolkit for building visually rich, cross-platform apps quickly.
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies, ideal for building fast MVPs.
 - **[Firebase Cloud Messaging (FCM)](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications for mobile, with no backend setup.
 
-### **Database & Storage**
+### Database & Storage
 
 - **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync and flexible document model.
 - **[Supabase](https://supabase.com/)** - Open-source alternative to Firebase, provides an instant SQL database.
