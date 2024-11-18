@@ -4,38 +4,37 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Table of Contents
 
-- [Awesome-Hackathon](#awesome-hackathon)
-  - [Table of Contents](#table-of-contents)
-  - [Ideation \& Inspiration](#ideation--inspiration)
-    - [Inspiration](#inspiration)
-  - [Planning \& Prototyping](#planning--prototyping)
-    - [Prototyping \& Design](#prototyping--design)
-    - [UI Library](#ui-library)
-    - [Fonts](#fonts)
-    - [Icons](#icons)
-  - [Development](#development)
-    - [Frontend Development](#frontend-development)
-    - [Backend Development](#backend-development)
-    - [Mobile Development](#mobile-development)
-    - [Database \& Storage](#database--storage)
-    - [**Authentication \& Authorization**](#authentication--authorization)
-    - [**APIs \& Data Access**](#apis--data-access)
-    - [**AI \& ML**](#ai--ml)
-    - [**Data Engineering \& Big Data**](#data-engineering--big-data)
-    - [**Cybersecurity**](#cybersecurity)
-    - [**Blockchain \& Web3**](#blockchain--web3)
-    - [**Game Development**](#game-development)
-    - [**Data Visualization**](#data-visualization)
-    - [**Design \& Art**](#design--art)
-  - [**Testing \& Quality Assurance**](#testing--quality-assurance)
-  - [Deployment \& Hosting](#deployment--hosting)
-    - [**Hosting \& Deployment**](#hosting--deployment)
-    - [**Serverless \& Cloud Functions**](#serverless--cloud-functions)
-  - [Collaboration \& Communication](#collaboration--communication)
-  - [Presentation \& Pitching](#presentation--pitching)
-  - [Extension](#extension)
-  - [Illustration](#illustration)
-  - [Generator \& Snippet](#generator--snippet)
+1. [Ideation & Inspiration](#ideation--inspiration)
+   - [Inspiration](#inspiration)
+2. [Planning & Prototyping](#planning--prototyping)
+   - [Prototyping](#prototyping)
+3. [Development](#development)
+   - [Frontend Development](#frontend-development)
+     - [UI Library](#ui-library)
+   - [Backend Development](#backend-development)
+   - [Mobile Development](#mobile-development)
+   - [Database & Storage](#database--storage)
+   - [Authentication & Authorization](#authentication--authorization)
+   - [APIs & Data Access](#apis--data-access)
+   - [AI & ML](#ai--ml)
+   - [Data Engineering & Big Data](#data-engineering--big-data)
+   - [Cybersecurity](#cybersecurity)
+   - [Blockchain & Web3](#blockchain--web3)
+   - [Game Development](#game-development)
+   - [Data Visualization](#data-visualization)
+   - [Generator & Snippet](#generator--snippet)
+4. [Design](#design)
+   - [Tool](#tool)
+   - [Illustration](#illustration)
+   - [Fonts](#fonts)
+   - [Icons](#icons)
+5. [Testing & Quality Assurance](#testing--quality-assurance)
+6. [Deployment & Hosting](#deployment--hosting)
+   - [Hosting & Deployment](#hosting--deployment)
+   - [Serverless & Cloud Functions](#serverless--cloud-functions)
+7. [Collaboration & Communication](#collaboration--communication)
+8. [Presentation & Pitching](#presentation--pitching)
+9. [Extension](#extension)
 
 ---
 
@@ -51,9 +50,8 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Planning & Prototyping
 
-### Prototyping & Design
+### Prototyping
 
-- **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
 - **[Canva](https://www.canva.com/)** - Simple, user-friendly design tool with templates for web and mobile mockups.
 - **[Whimsical](https://whimsical.com/)** - Drag-and-drop wireframing tool, great for quick prototyping and ideation.
 - **[InVision Freehand](https://www.invisionapp.com/freehand)** - Digital whiteboard for brainstorming and UI mockups.
@@ -63,24 +61,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[LibreOffice](https://www.libreoffice.org/)** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
 - **[Kdenlive](https://kdenlive.org/)** - A professional-grade, open-source video editor for multi-track video creation and editing.
 - **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for creating interactive and realistic app mockups.
-
-### UI Library
-
-- **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
-- **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
-- **[Magic UI](https://magicui.design)** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
-
-### Fonts
-
-- **[Geist Font](https://vercel.com/font)** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
-- **[Onest](https://github.com/simpals/onest)** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
-
-### Icons
-
-- **[Phosphor Icons](https://phosphoricons.com/)** - A versatile icon family for interfaces, diagrams, and more.
-- **[Radix Icons](https://icons.radix-ui.com/)** - An open-source component library for fast, accessible, and hassle-free development.
-- **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit made by the community.
-- **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - A collection of icons used across Vercel products.
 
 ## Development
 
@@ -93,6 +73,12 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling, no custom design needed.
 - **[Parcel](https://parceljs.org/)** - Zero-config bundler, ideal for quickly getting apps up and running.
 - **[SvelteKit](https://svelte.dev/)** - A fast and lightweight framework for building web applications with minimal boilerplate.
+
+#### UI Library
+
+- **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
+- **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
+- **[Magic UI](https://magicui.design)** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
 
 ### Backend Development
 
@@ -117,7 +103,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[PlanetScale](https://planetscale.com/)** - Serverless MySQL database with a free tier, scalable and easy to set up.
 - **[Airtable](https://airtable.com/)** - Easy-to-use database with a spreadsheet interface, ideal for rapid prototyping.
 
-### **Authentication & Authorization**
+### Authentication & Authorization
 
 - **[Firebase Auth](https://firebase.google.com/products/auth)** - Simple authentication with social login support, no complex setup required.
 - **[Auth0](https://auth0.com/)** - Authentication service with support for social and passwordless login.
@@ -127,7 +113,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** - Quick setup for apps that need user tracking without full sign-up.
 - **[NextAuth.js](https://next-auth.js.org/)** - Authentication for Next.js.
 
-### **APIs & Data Access**
+### APIs & Data Access
 
 - **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs.
 - **[OpenAI API](https://platform.openai.com/docs/introduction)** - Pre-built NLP models for text generation and understanding, free trial credits.
@@ -140,7 +126,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing.
 - **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data.
 
-### **AI & ML**
+### AI & ML
 
 - **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** - Pre-trained NLP models, no need to train from scratch.
 - **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train image, sound, and pose models in the browser without code.
@@ -149,7 +135,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos.
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 
-### **Data Engineering & Big Data**
+### Data Engineering & Big Data
 
 - **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL, good for small datasets.
 - **[Apache Kafka on Confluent Cloud](https://www.confluent.io/confluent-cloud/tryfree/)** - Free tier for real-time data streaming.
@@ -158,7 +144,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Pandas Profiling](https://pandas-profiling.ydata.ai/)** - Auto-generate data analysis reports from Pandas DataFrames.
 - **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Access open datasets for building data-driven MVPs quickly.
 
-### **Cybersecurity**
+### Cybersecurity
 
 - **[Nuclei](https://docs.projectdiscovery.io/tools/nuclei/overview)** - Open-source vulnerability scanner powered by the global security community for finding vulnerabilities.
 - **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web application security scanner for finding vulnerabilities.
@@ -171,7 +157,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Sudomy](https://github.com/Screetsec/Sudomy)** - Subdomain enumeration tool for collecting subdomains and performing automated reconnaissance.
 - **[Frida](https://frida.re/)** - A reverse engineering tool for Android and Windows applications.
 
-  ### **Blockchain & Web3**
+  ### Blockchain & Web3
 
 - **[Alchemy](https://www.alchemy.com/)** - Easy-to-use platform for blockchain APIs and developer tools, free tier included.
 - **[MetaMask](https://metamask.io/)** - Browser extension for managing blockchain wallets and accessing DApps.
@@ -179,7 +165,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Moralis](https://moralis.io/)** - Web3 backend with APIs, user authentication, and data storage.
 - **[Remix IDE](https://remix.ethereum.org/)** - Browser-based Solidity IDE, ideal for writing and testing smart contracts.
 
-### **Game Development**
+### Game Development
 
 - **[Unity Personal](https://unity.com/products/unity-personal)** - Free game engine for indie developers, ideal for cross-platform, rapid and blitz 2D/3D games.
 - **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes.
@@ -189,7 +175,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Stability.ai](https://stability.ai/)** - For stable models.
 - **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation app.
 
-### **Data Visualization**
+### Data Visualization
 
 - [**Plotly**](https://plotly.com/) - Interactive graphing for data visualization in Python.
 - [**Tableau Public**](https://public.tableau.com/) - Free version for creating interactive, shareable data dashboards.
@@ -197,12 +183,46 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - [**Chart.js**](https://www.chartjs.org/) - Lightweight JavaScript library for quick and easy charts on the frontend.
 - [**Draw.io**](https://www.diagrams.net/) - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
 
-### **Design & Art**
+### Generator & Snippet
 
+- [Vercel OG Image Playground](https://og-playground.vercel.app) - Generate Open Graph images with Vercel’s Edge Function.
+- [Scrollbar.app](https://scrollbar.app) - Simple CSS scrollbar editor.
+- [Tailwind CSS Color Generator](https://uicolors.app/create) - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
+- [bg.ibelick](https://bg.ibelick.com) - Collection of modern, background snippets
+- [Gradiently](https://gradienty.codes) - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
+- [Haikei](https://app.haikei.app) - A web-based design tool to generate unique SVG design assets for websites
+
+## Design
+
+### Tool
+
+- **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
 - **[Blender](https://www.blender.org/)** - Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, BSD, Haiku, IRIX, and Linux.
 - **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app.
 
-## **Testing & Quality Assurance**
+### Illustration
+
+- **[404 Illustrations](https://error404.fun)**- Royalty free illustrations for 404 pages
+- **[Humaaans](https://www.humaaans.com)** - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
+- **[SVG Illustrations](https://lukaszadam.com/illustrations)** - Free SVG Illustrations
+- **[Open Peeps](https://www.openpeeps.com)** - Open Peeps is a hand-drawn illustration library to create scenes of people.
+- **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- **[Popsy](https://popsy.co/illustrations)** - The biggest free Notion illustration set.
+
+### Fonts
+
+- **[Geist Font](https://vercel.com/font)** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
+- **[Onest](https://github.com/simpals/onest)** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
+
+### Icons
+
+- **[Phosphor Icons](https://phosphoricons.com/)** - A versatile icon family for interfaces, diagrams, and more.
+- **[Radix Icons](https://icons.radix-ui.com/)** - An open-source component library for fast, accessible, and hassle-free development.
+- **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit made by the community.
+- **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - A collection of icons used across Vercel products.
+
+## Testing & Quality Assurance
 
 - **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface, good for testing API endpoints.
 - **[Jest](https://jestjs.io/)** - JavaScript testing framework, easy setup with React and Node.js projects.
@@ -212,14 +232,14 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Deployment & Hosting
 
-### **Hosting & Deployment**
+### Hosting & Deployment
 
 - **[Vercel](https://vercel.com/)** - One-click deployment for frontend frameworks, with auto scaling and global CDN.
 - **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD, deploys apps directly from GitHub.
 - **[Glitch](https://glitch.com/)** - In-browser IDE for deploying small Node.js apps instantly, great for demos.
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites, ideal for deploying simple frontend MVPs.
 
-### **Serverless & Cloud Functions**
+### Serverless & Cloud Functions
 
 - **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Run code in response to events with minimal setup.
 - **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions for small, event-driven tasks.
@@ -238,33 +258,14 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Presentation & Pitching
 
-- [Canva](https://www.canva.com/) - User-friendly design tool with templates for presentations.
-- [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) - Free tool for creating presentations.
-- [Google Slides](https://www.google.com/slides/about/) - Collaborative presentation tool.
-- [ElevenLabs](https://elevenlabs.io) - Create realistic speech with AI audio platform
+- **[Canva](https://www.canva.com/)** - User-friendly design tool with templates for presentations.
+- **[LibreOffice Impress](https://www.libreoffice.org/discover/impress/)** - Free tool for creating presentations.
+- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative presentation tool.
+- **[ElevenLabs](https://elevenlabs.io)** - Create realistic speech with AI audio platform
 
 ## Extension
 
-- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Adds React debugging tools to the Chrome Developer Tools.
-- [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - The easiest way to identify fonts on web pages.
-- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and more.
-- [CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
-
-## Illustration
-
-- [404 Illustrations](https://error404.fun) - Royalty free illustrations for 404 pages
-- [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
-- [SVG Illustrations](https://lukaszadam.com/illustrations) - Free SVG Illustrations
-- [Open Peeps](https://www.openpeeps.com) - Open Peeps is a hand-drawn illustration library to create scenes of people.
-- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
-- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
-- [Popsy](https://popsy.co/illustrations) - The biggest free Notion illustration set.
-
-## Generator & Snippet
-
-- [Vercel OG Image Playground](https://og-playground.vercel.app) - Generate Open Graph images with Vercel’s Edge Function.
-- [Scrollbar.app](https://scrollbar.app) - Simple CSS scrollbar editor.
-- [Tailwind CSS Color Generator](https://uicolors.app/create) - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
-- [bg.ibelick](https://bg.ibelick.com) - Collection of modern, background snippets
-- [Gradiently](https://gradienty.codes) - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
-- [Haikei](https://app.haikei.app) - A web-based design tool to generate unique SVG design assets for websites
+- **[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)** - Adds React debugging tools to the Chrome Developer Tools.
+- **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)** - The easiest way to identify fonts on web pages.
+- **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** - Advanced Eyedropper, Color Picker, Gradient Generator and more.
+- **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** - A simple CSS property viewer.
