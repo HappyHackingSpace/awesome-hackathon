@@ -4,33 +4,38 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Table of Contents
 
-1. [Ideation & Inspiration](#ideation--inspiration)
-   - [Inspiration](#inspiration)
-2. [Planning & Prototyping](#planning--prototyping)
-   - [Prototyping & Design](#prototyping--design)
-   - [UI Library](#ui-library)
-   - [Fonts](#fonts)
-   - [Icons](#icons)
-3. [Development](#development)
-   - [Frontend Development](#frontend-development)
-   - [Backend Development](#backend-development)
-   - [Mobile Development](#mobile-development)
-   - [Database & Storage](#database--storage)
-   - [Authentication & Authorization](#authentication--authorization)
-   - [APIs & Data Access](#apis--data-access)
-   - [AI & ML](#ai--ml)
-   - [Data Engineering & Big Data](#data-engineering--big-data)
-   - [Cybersecurity](#cybersecurity)
-   - [Blockchain & Web3](#blockchain--web3)
-   - [Game Development](#game-development)
-   - [Data Visualization](#data-visualization)
-4. [Design & Art](#design--art)
-5. [Testing & Quality Assurance](#testing--quality-assurance)
-6. [Deployment & Hosting](#deployment--hosting)
-   - [Hosting & Deployment](#hosting--deployment)
-   - [Serverless & Cloud Functions](#serverless--cloud-functions)
-7. [Collaboration & Communication](#collaboration--communication)
-8. [Presentation & Pitching](#presentation--pitching)
+- [Awesome-Hackathon](#awesome-hackathon)
+  - [Table of Contents](#table-of-contents)
+  - [Ideation \& Inspiration](#ideation--inspiration)
+    - [Inspiration](#inspiration)
+  - [Planning \& Prototyping](#planning--prototyping)
+    - [Prototyping \& Design](#prototyping--design)
+    - [UI Library](#ui-library)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
+  - [Development](#development)
+    - [Frontend Development](#frontend-development)
+    - [Backend Development](#backend-development)
+    - [Mobile Development](#mobile-development)
+    - [Database \& Storage](#database--storage)
+    - [**Authentication \& Authorization**](#authentication--authorization)
+    - [**APIs \& Data Access**](#apis--data-access)
+    - [**AI \& ML**](#ai--ml)
+    - [**Data Engineering \& Big Data**](#data-engineering--big-data)
+    - [**Cybersecurity**](#cybersecurity)
+    - [**Blockchain \& Web3**](#blockchain--web3)
+    - [**Game Development**](#game-development)
+    - [**Data Visualization**](#data-visualization)
+    - [**Design \& Art**](#design--art)
+  - [**Testing \& Quality Assurance**](#testing--quality-assurance)
+  - [Deployment \& Hosting](#deployment--hosting)
+    - [**Hosting \& Deployment**](#hosting--deployment)
+    - [**Serverless \& Cloud Functions**](#serverless--cloud-functions)
+  - [Collaboration \& Communication](#collaboration--communication)
+  - [Presentation \& Pitching](#presentation--pitching)
+  - [Extension](#extension)
+  - [Illustration](#illustration)
+  - [Generator \& Snippet](#generator--snippet)
 
 ---
 
@@ -233,3 +238,29 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - [LibreOffice Impress](https://www.libreoffice.org/discover/impress/) - Free tool for creating presentations.
 - [Google Slides](https://www.google.com/slides/about/) - Collaborative presentation tool.
 - [ElevenLabs](https://elevenlabs.io) - Create realistic speech with AI audio platform
+
+## Extension
+
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Adds React debugging tools to the Chrome Developer Tools.
+- [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) - The easiest way to identify fonts on web pages.
+- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and more.
+- [CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer.
+
+## Illustration
+
+- [404 Illustrations](https://error404.fun) - Royalty free illustrations for 404 pages
+- [Humaaans](https://www.humaaans.com) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
+- [SVG Illustrations](https://lukaszadam.com/illustrations) - Free SVG Illustrations
+- [Open Peeps](https://www.openpeeps.com) - Open Peeps is a hand-drawn illustration library to create scenes of people.
+- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- [404 Illustrations](https://www.kapwing.com/404-illustrations) - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
+- [Popsy](https://popsy.co/illustrations) - The biggest free Notion illustration set.
+
+## Generator & Snippet
+
+- [Vercel OG Image Playground](https://og-playground.vercel.app) - Generate Open Graph images with Vercel’s Edge Function.
+- [Scrollbar.app](https://scrollbar.app) - Simple CSS scrollbar editor.
+- [Tailwind CSS Color Generator](https://uicolors.app/create) - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
+- [bg.ibelick](https://bg.ibelick.com) - Collection of modern, background snippets
+- [Gradiently](https://gradienty.codes) - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
+- [Haikei](https://app.haikei.app) - A web-based design tool to generate unique SVG design assets for websites
