@@ -1,4 +1,5 @@
 # Awesome-Hackathon
+![Awesome Hackathon](logo.webp)
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
