@@ -88,6 +88,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Flask](https://flask.palletsprojects.com/)** - Lightweight Python microframework, perfect for simple backends and APIs.
 - **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment, useful for real-time updates.
 - **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instantly creates a GraphQL API.
+- **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - A robust, open-source framework by Microsoft for building modern web applications and APIs in .NET, with comprehensive support for MVC patterns, authentication, and scalable deployment options.
 
 ### Mobile Development
 
@@ -126,6 +127,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Mockaroo](https://www.mockaroo.com/)** - Mock tool to generate up to 1,000 rows of test data in CSV, JSON, SQL, and Excel formats.
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing.
 - **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data.
+- **[DBeaver Community](https://dbeaver.io/)** - Open-source database management tool supporting multiple database types (MySQL, PostgreSQL, SQLite, Oracle, etc.), with features for data visualization, SQL editing, and database administration.
 
 ### AI & ML
 
@@ -158,7 +160,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Sudomy](https://github.com/Screetsec/Sudomy)** - Subdomain enumeration tool for collecting subdomains and performing automated reconnaissance.
 - **[Frida](https://frida.re/)** - A reverse engineering tool for Android and Windows applications.
 
-  ### Blockchain & Web3
+### Blockchain & Web3
 
 - **[Alchemy](https://www.alchemy.com/)** - Easy-to-use platform for blockchain APIs and developer tools, free tier included.
 - **[MetaMask](https://metamask.io/)** - Browser extension for managing blockchain wallets and accessing DApps.
@@ -178,20 +180,20 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Data Visualization
 
-- [**Plotly**](https://plotly.com/) - Interactive graphing for data visualization in Python.
-- [**Tableau Public**](https://public.tableau.com/) - Free version for creating interactive, shareable data dashboards.
-- [**Google Charts**](https://developers.google.com/chart) - Simple API for adding data visualizations to your website.
-- [**Chart.js**](https://www.chartjs.org/) - Lightweight JavaScript library for quick and easy charts on the frontend.
-- [**Draw.io**](https://www.diagrams.net/) - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
+- **[Plotly](https://plotly.com/)** - Interactive graphing for data visualization in Python.
+- **[Tableau Public](https://public.tableau.com/)** - Free version for creating interactive, shareable data dashboards.
+- **[Google Charts](https://developers.google.com/chart)** - Simple API for adding data visualizations to your website.
+- **[Chart.js](https://www.chartjs.org/)** - Lightweight JavaScript library for quick and easy charts on the frontend.
+- **[Draw.io](https://www.diagrams.net/)** - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
 
 ### Generator & Snippet
 
-- [Vercel OG Image Playground](https://og-playground.vercel.app) - Generate Open Graph images with Vercel’s Edge Function.
-- [Scrollbar.app](https://scrollbar.app) - Simple CSS scrollbar editor.
-- [Tailwind CSS Color Generator](https://uicolors.app/create) - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
-- [bg.ibelick](https://bg.ibelick.com) - Collection of modern, background snippets
-- [Gradiently](https://gradienty.codes) - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
-- [Haikei](https://app.haikei.app) - A web-based design tool to generate unique SVG design assets for websites
+- **[Vercel OG Image Playground](https://og-playground.vercel.app)** - Generate Open Graph images with Vercel’s Edge Function.
+- **[Scrollbar.app](https://scrollbar.app)** - Simple CSS scrollbar editor.
+- **[Tailwind CSS Color Generator](https://uicolors.app/create)** - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
+- **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern, background snippets
+- **[Gradiently](https://gradienty.codes)** - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
+- **[Haikei](https://app.haikei.app)** - A web-based design tool to generate unique SVG design assets for websites
 
 ## Design
 
