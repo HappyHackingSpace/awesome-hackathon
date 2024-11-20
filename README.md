@@ -211,7 +211,6 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[SVG Illustrations](https://lukaszadam.com/illustrations)** - Free SVG Illustrations
 - **[Open Peeps](https://www.openpeeps.com)** - Open Peeps is a hand-drawn illustration library to create scenes of people.
 - **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
-- **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
 - **[Popsy](https://popsy.co/illustrations)** - The biggest free Notion illustration set.
 
 ### Fonts
