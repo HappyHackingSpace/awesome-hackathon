@@ -118,6 +118,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### APIs & Data Access
 
 - **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs.
+- **[Swagger UI](https://rapidapi.com/)** - Tool for automatically documenting and interactively testing your REST APIs.
 - **[OpenAI API](https://platform.openai.com/docs/introduction)** - Pre-built NLP models for text generation and understanding, free trial credits.
 - **[Twilio](https://www.twilio.com/)** - Simple API for sending SMS and making calls, free trial with credits.
 - **[NewsAPI](https://newsapi.org/)** - Free access to recent news data from various sources.
