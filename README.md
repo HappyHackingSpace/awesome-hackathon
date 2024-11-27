@@ -36,6 +36,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 7. [Collaboration & Communication](#collaboration--communication)
 8. [Presentation & Pitching](#presentation--pitching)
 9. [Extension](#extension)
+10. [VPN](#vpn)
 
 ---
 
@@ -272,3 +273,11 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)** - The easiest way to identify fonts on web pages.
 - **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** - Advanced Eyedropper, Color Picker, Gradient Generator and more.
 - **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** - A simple CSS property viewer.
+
+## VPN
+1. VPN Web Extensions
+- **[TouchVPN](https://www.touchvpn.net)** - Free Chrome/Mozilla VPN Extension
+- **[BrowsecVPN](https://browsec.com/en/=and)** - Free Chrome/Mozilla VPN Extension(Alternative)
+2. VPN Apps
+- **[ProtonVPN](https://protonvpn.com)** - Free for Win/Mac/Linux
+- **[1.1.1.1](https://one.one.one.one)** - 1.1.1.1 is a free, public DNS resolver from Cloudflare and APNIC
