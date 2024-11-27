@@ -280,4 +280,4 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[BrowsecVPN](https://browsec.com/en/=and)** - Free Chrome/Mozilla VPN Extension(Alternative)
 2. VPN Apps
 - **[ProtonVPN](https://protonvpn.com)** - Free for Win/Mac/Linux
-
+- **[1.1.1.1](https://one.one.one.one)** - 1.1.1.1 is a free, public DNS resolver from Cloudflare and APNIC
