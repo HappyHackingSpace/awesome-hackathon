@@ -88,6 +88,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[FastAPI](https://fastapi.tiangolo.com/)** - Python framework for building APIs quickly, with built-in OpenAPI docs.
 - **[Flask](https://flask.palletsprojects.com/)** - Lightweight Python microframework, perfect for simple backends and APIs.
 - **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment, useful for real-time updates.
+- **[Manifest](https://manifest.build)** - Instant Headless CMS / Micro-backend in 1 file to power websites and apps
 - **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instantly creates a GraphQL API.
 - **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - A robust, open-source framework by Microsoft for building modern web applications and APIs in .NET, with comprehensive support for MVC patterns, authentication, and scalable deployment options.
 
