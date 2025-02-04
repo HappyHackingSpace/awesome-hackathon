@@ -198,6 +198,12 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Gradiently](https://gradienty.codes)** - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
 - **[Haikei](https://app.haikei.app)** - A web-based design tool to generate unique SVG design assets for websites
 
+### AI Tools
+
+- **[Bolt](https://bolt.new/)** - Bolt.new is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser
+- **[Cursor](https://www.cursor.com/)** - Cursor is an AI-powered integrated development environment for Windows, macOS and Linux designed to enhance developer productivity by integrating advanced artificial intelligence features directly into the coding environment.
+- **[Windsurf](https://codeium.com/windsurf)** - Windsurf is an AI-powered code editor that helps you write code faster and more accurately. It provides real-time code completion, code suggestions, and code refactoring.
+
 ## Design
 
 ### Tool
