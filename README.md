@@ -205,6 +205,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
 - **[Blender](https://www.blender.org/)** - Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, BSD, Haiku, IRIX, and Linux.
 - **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app.
+- **[v0](https://v0.dev/)** - v0 is a powerful tool for generating high-quality UIs and code, and it's also an educational asset for designing and creating on the web.
 
 ### Illustration
 
