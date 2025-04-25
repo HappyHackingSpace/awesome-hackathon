@@ -10,6 +10,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 2. [Planning & Prototyping](#planning--prototyping)
    - [Prototyping](#prototyping)
 3. [Development](#development)
+   - [Boilerplates](#boilerplates)
    - [Frontend Development](#frontend-development)
      - [UI Library](#ui-library)
    - [Backend Development](#backend-development)
