@@ -10,6 +10,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 2. [Planning & Prototyping](#planning--prototyping)
    - [Prototyping](#prototyping)
 3. [Development](#development)
+   - [Boilerplates](#boilerplates)
    - [Frontend Development](#frontend-development)
      - [UI Library](#ui-library)
    - [Backend Development](#backend-development)
@@ -65,6 +66,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for creating interactive and realistic app mockups.
 
 ## Development
+
+### Boilerplates
+
+- **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - A Node.js web application boilerplate with authentication, OAuth2, account management, various API and AI integrations, and more.
 
 ### Frontend Development
 
