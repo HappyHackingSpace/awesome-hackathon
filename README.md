@@ -141,6 +141,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos.
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
 
+### MCP Servers/Tools
+
+- **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** - A cybersecurity toolkit that connects AI assistants to security tools.
+
 ### Data Engineering & Big Data
 
 - **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL, good for small datasets.
