@@ -66,6 +66,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Development
 
+### Boilerplates
+
+- **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - A Node.js web application boilerplate with authentication, OAuth2, account management, various API and AI integrations, and more.
+
 ### Frontend Development
 
 - **[React](https://reactjs.org/)** - JavaScript library with reusable components, great for rapid UI development.
