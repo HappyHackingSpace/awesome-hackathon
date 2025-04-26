@@ -1,5 +1,5 @@
 # Awesome-Hackathon
-![Awesome Hackathon](logo.webp)
+![Awesome Hackathon](img/logo.webp)
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
@@ -149,6 +149,8 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### MCP Servers/Tools
 
 - **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** - A cybersecurity toolkit that connects AI assistants to security tools.
+- **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - ghidraMCP is an Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications.
+- **[MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan)** - An MCP Security Scanner
 
 ### Data Engineering & Big Data
 
@@ -298,3 +300,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 2. VPN Apps
 - **[ProtonVPN](https://protonvpn.com)** - Free for Win/Mac/Linux
 - **[1.1.1.1](https://one.one.one.one)** - 1.1.1.1 is a free, public DNS resolver from Cloudflare and APNIC
+
+
+
+
+---
+
+![Made in love](img/hhs.svg)
