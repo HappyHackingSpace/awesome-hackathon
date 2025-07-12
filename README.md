@@ -19,6 +19,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
    - [Authentication & Authorization](#authentication--authorization)
    - [APIs & Data Access](#apis--data-access)
    - [AI & ML](#ai--ml)
+   - [LLM Models/Tools/Services](#llm-modelstoolsservices)
    - [Data Engineering & Big Data](#data-engineering--big-data)
    - [Cybersecurity](#cybersecurity)
    - [Blockchain & Web3](#blockchain--web3)
@@ -145,6 +146,9 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[IBM Watson AI](https://www.ibm.com/cloud/watson)** - NLP, vision, and language tools with free tier for basic tasks.
 - **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos.
 - **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
+
+### LLM Models/Tools/Services
+- **[YouLearn.AI](https://www.youlearn.ai)** - AI-powered learning platform that allows users to upload various content (PDFs, videos, web pages) and interact with AI for document analysis, Q&A, and summarization.
 
 ### MCP Servers/Tools
 
