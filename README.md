@@ -19,7 +19,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
    - [Authentication & Authorization](#authentication--authorization)
    - [APIs & Data Access](#apis--data-access)
    - [AI & ML](#ai--ml)
-   - [LLM Models/Tools/Services](#ai--ml)
+   - [LLM Models/Tools/Services](#llm-modelstoolsservices)
    - [Data Engineering & Big Data](#data-engineering--big-data)
    - [Cybersecurity](#cybersecurity)
    - [Blockchain & Web3](#blockchain--web3)
