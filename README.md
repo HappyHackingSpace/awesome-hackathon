@@ -1,313 +1,299 @@
-# Awesome-Hackathon
+# Awesome Hackathon
 ![Awesome Hackathon](img/logo.avif)
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
 ## Table of Contents
 
-1. [Ideation & Inspiration](#ideation--inspiration)
-   - [Inspiration](#inspiration)
-2. [Planning & Prototyping](#planning--prototyping)
-   - [Prototyping](#prototyping)
-3. [Development](#development)
-   - [Boilerplates](#boilerplates)
-   - [Frontend Development](#frontend-development)
-     - [UI Library](#ui-library)
-   - [Backend Development](#backend-development)
-   - [Mobile Development](#mobile-development)
-   - [Database & Storage](#database--storage)
-   - [Authentication & Authorization](#authentication--authorization)
-   - [APIs & Data Access](#apis--data-access)
-   - [AI & ML](#ai--ml)
-   - [LLM Models/Tools/Services](#llm-modelstoolsservices)
-   - [Data Engineering & Big Data](#data-engineering--big-data)
-   - [Cybersecurity](#cybersecurity)
-   - [Blockchain & Web3](#blockchain--web3)
-   - [Game Development](#game-development)
-   - [Data Visualization](#data-visualization)
-   - [Generator & Snippet](#generator--snippet)
-4. [Design](#design)
-   - [Tool](#tool)
-   - [Illustration](#illustration)
-   - [Fonts](#fonts)
-   - [Icons](#icons)
-5. [Testing & Quality Assurance](#testing--quality-assurance)
-6. [Deployment & Hosting](#deployment--hosting)
-   - [Hosting & Deployment](#hosting--deployment)
-   - [Serverless & Cloud Functions](#serverless--cloud-functions)
-7. [Collaboration & Communication](#collaboration--communication)
-8. [Presentation & Pitching](#presentation--pitching)
-9. [Extension](#extension)
-10. [VPN](#vpn)
+### For Hackathon Participants 👨‍💻👩‍💻
+1. [AI & Machine Learning](#ai--machine-learning)
+2. [AI Development Tools](#ai-development-tools)
+3. [APIs & Data Sources](#apis--data-sources)
+4. [Authentication & User Management](#authentication--user-management)
+5. [Backend Development](#backend-development)
+6. [Blockchain & Web3](#blockchain--web3)
+7. [Browser Extensions & Dev Tools](#browser-extensions--dev-tools)
+8. [Collaboration & Communication](#collaboration--communication)
+9. [Cybersecurity Tools](#cybersecurity-tools)
+10. [Data Engineering & Analytics](#data-engineering--analytics)
+11. [Data Visualization](#data-visualization)
+12. [Database & Storage](#database--storage)
+13. [Deployment & Hosting](#deployment--hosting)
+14. [Design & UI/UX](#design--uiux)
+15. [Design Resources](#design-resources)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
+    - [Illustrations](#illustrations)
+16. [Frontend Development](#frontend-development)
+    - [UI Libraries](#ui-libraries)
+17. [Game Development](#game-development)
+18. [Generators & Snippets](#generators--snippets)
+19. [Inspiration & Ideas](#inspiration--ideas)
+20. [LLM Models/Tools/Services](#llm-modelstoolsservices)
+21. [MCP Servers/Tools](#mcp-serverstools)
+22. [Mobile Development](#mobile-development)
+23. [Project Starters & Boilerplates](#project-starters--boilerplates)
+24. [Testing & Quality Assurance](#testing--quality-assurance)
+25. [VPN & Privacy](#vpn--privacy)
+
+### For Hackathon Organizers 🎯📋
+1. [Communication & Coordination](#communication--coordination)
+2. [Event Documentation & Collaboration](#event-documentation--collaboration)
+3. [Participant Resources & Inspiration](#participant-resources--inspiration)
+4. [Presentation & Demo Tools](#presentation--demo-tools)
+5. [Project Management & Tracking](#project-management--tracking)
+6. [Quick Deployment & Hosting for Demos](#quick-deployment--hosting-for-demos)
 
 ---
 
-## Ideation & Inspiration
+## For Hackathon Participants 👨‍💻👩‍💻
 
-### Inspiration
+### AI & Machine Learning
+- **[Google Colab](https://colab.research.google.com/)** - Free Jupyter notebook with GPU support for quick prototyping of ML models
+- **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** - Pre-trained NLP models, no need to train from scratch
+- **[IBM Watson AI](https://www.ibm.com/cloud/watson)** - NLP, vision, and language tools with free tier for basic tasks
+- **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale
+- **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos
+- **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train image, sound, and pose models in the browser without code
 
-- **[Evernote Design](https://evernote.design/)** - All in one bookmark links for designers.
-- **[Unarkhive](https://unarkhive.com/)** - Explore curated links across various categories, updated daily.
-- **[saasui.design](https://saasui.design/)** - SaasUI showcases top-tier SaaS application designs.
-- **[SCRNSHTS](https://scrnshts.club/)** - A hand-picked collection of the finest app store design screenshots.
-- **[Saaspo](https://saaspo.com/)** - The best SaaS web design inspiration.
+### AI Development Tools
+- **[Bolt](https://bolt.new/)** - AI-powered web development agent for full-stack applications in browser
+- **[Cursor](https://www.cursor.com/)** - AI-powered integrated development environment with advanced features
+- **[Windsurf](https://codeium.com/windsurf)** - AI-powered code editor with real-time completion and suggestions
 
-## Planning & Prototyping
+### APIs & Data Sources
+- **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data
+- **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing
+- **[Mapbox](https://www.mapbox.com/)** - Easy-to-use maps and geolocation service with generous free tier
+- **[Mockaroo](https://www.mockaroo.com/)** - Generate up to 1,000 rows of test data in multiple formats
+- **[Mocky](https://mocky.io/)** - Tool for generating custom mock APIs
+- **[NewsAPI](https://newsapi.org/)** - Free access to recent news data from various sources
+- **[OpenAI API](https://platform.openai.com/docs/introduction)** - Pre-built NLP models for text generation and understanding
+- **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs
+- **[SheetDB](https://sheetdb.io/)** - Turns Google Sheets into a REST API for quick MVP data handling
+- **[Swagger UI](https://swagger.io/)** - Tool for automatically documenting and testing REST APIs
+- **[Twilio](https://www.twilio.com/)** - Simple API for sending SMS and making calls, free trial with credits
 
-### Prototyping
-
-- **[Canva](https://www.canva.com/)** - Simple, user-friendly design tool with templates for web and mobile mockups.
-- **[Whimsical](https://whimsical.com/)** - Drag-and-drop wireframing tool, great for quick prototyping and ideation.
-- **[InVision Freehand](https://www.invisionapp.com/freehand)** - Digital whiteboard for brainstorming and UI mockups.
-- **[Adobe XD Free](https://www.adobe.com/products/xd.html)** - Lightweight design tool for creating simple wireframes and prototypes.
-- **[GIMP](https://www.gimp.org/)** - An open-source image editor comparable to Photoshop, used for graphic design and photo retouching.
-- **[Excalidraw](https://excalidraw.com/)** - A collaborative whiteboard tool for sketch-style diagrams, ideal for brainstorming and real-time visual collaboration.
-- **[LibreOffice](https://www.libreoffice.org/)** - A free, open-source office suite that provides word processing, spreadsheets, and presentation tools, serving as an alternative to Microsoft Office.
-- **[Kdenlive](https://kdenlive.org/)** - A professional-grade, open-source video editor for multi-track video creation and editing.
-- **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for creating interactive and realistic app mockups.
-
-## Development
-
-### Boilerplates
-
-- **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - A Node.js web application boilerplate with authentication, OAuth2, account management, various API and AI integrations, and more.
-
-### Frontend Development
-
-- **[React](https://reactjs.org/)** - JavaScript library with reusable components, great for rapid UI development.
-- **[Next.js](https://nextjs.org/)** - Powers high-quality web apps for the world’s leading companies, leveraging React's capabilities.
-- **[Vue.js](https://vuejs.org/)** - Lightweight, beginner-friendly framework for building dynamic web UIs.
-- **[Bootstrap](https://getbootstrap.com/)** - CSS framework with pre-designed, responsive components for fast layouts.
-- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling, no custom design needed.
-- **[Parcel](https://parceljs.org/)** - Zero-config bundler, ideal for quickly getting apps up and running.
-- **[SvelteKit](https://svelte.dev/)** - A fast and lightweight framework for building web applications with minimal boilerplate.
-
-#### UI Library
-
-- **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.
-- **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components. Shadcn compatible, styled with Tailwind CSS. Open source and fully typed.
-- **[Magic UI](https://magicui.design)** - 50+ free, open-source animated components for React, TypeScript, Tailwind CSS, and Framer Motion. Ideal for shadcn/ui.
+### Authentication & User Management
+- **[Auth0](https://auth0.com/)** - Authentication service with social and passwordless login support
+- **[Clerk.dev](https://clerk.dev/)** - Drop-in authentication and user management with easy MVP setup
+- **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** - Quick setup for user tracking without full sign-up
+- **[Firebase Auth](https://firebase.google.com/products/auth)** - Simple authentication with social login support
+- **[Magic Link](https://magic.link/)** - Passwordless login with email, frictionless user authentication
+- **[NextAuth.js](https://next-auth.js.org/)** - Authentication for Next.js applications
+- **[SuperTokens](https://supertokens.com/)** - Open-source authentication with pre-built integrations
 
 ### Backend Development
-
-- **[Express.js](https://expressjs.com/)** - Minimalist Node.js framework, easy to set up REST APIs in minutes.
-- **[FastAPI](https://fastapi.tiangolo.com/)** - Python framework for building APIs quickly, with built-in OpenAPI docs.
-- **[Flask](https://flask.palletsprojects.com/)** - Lightweight Python microframework, perfect for simple backends and APIs.
-- **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment, useful for real-time updates.
-- **[Manifest](https://manifest.build)** - Instant Headless CMS / Micro-backend in 1 file to power websites and apps
-- **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instantly creates a GraphQL API.
-- **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - A robust, open-source framework by Microsoft for building modern web applications and APIs in .NET, with comprehensive support for MVC patterns, authentication, and scalable deployment options.
-
-### Mobile Development
-
-- **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development with React Native.
-- **[Flutter](https://flutter.dev/)** - Google’s UI toolkit for building visually rich, cross-platform apps quickly.
-- **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies, ideal for building fast MVPs.
-- **[Firebase Cloud Messaging (FCM)](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications for mobile, with no backend setup.
-
-### Database & Storage
-
-- **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync and flexible document model.
-- **[Supabase](https://supabase.com/)** - Open-source alternative to Firebase, provides an instant SQL database.
-- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - Managed NoSQL database with a free tier, suitable for flexible schemas.
-- **[PlanetScale](https://planetscale.com/)** - Serverless MySQL database with a free tier, scalable and easy to set up.
-- **[Airtable](https://airtable.com/)** - Easy-to-use database with a spreadsheet interface, ideal for rapid prototyping.
-
-### Authentication & Authorization
-
-- **[Firebase Auth](https://firebase.google.com/products/auth)** - Simple authentication with social login support, no complex setup required.
-- **[Auth0](https://auth0.com/)** - Authentication service with support for social and passwordless login.
-- **[Clerk.dev](https://clerk.dev/)** - Drop-in authentication and user management with easy setup for MVPs.
-- **[Magic Link](https://magic.link/)** - Passwordless login with email, makes user authentication frictionless.
-- **[SuperTokens](https://supertokens.com/)** - Open-source authentication solution with pre-built frontend and backend integrations.
-- **[Firebase Anonymous Auth](https://firebase.google.com/docs/auth/web/anonymous-auth)** - Quick setup for apps that need user tracking without full sign-up.
-- **[NextAuth.js](https://next-auth.js.org/)** - Authentication for Next.js.
-
-### APIs & Data Access
-
-- **[RapidAPI](https://rapidapi.com/)** - API marketplace to quickly find and test external APIs.
-- **[Swagger UI](https://swagger.io/)** - Tool for automatically documenting and interactively testing your REST APIs.
-- **[OpenAI API](https://platform.openai.com/docs/introduction)** - Pre-built NLP models for text generation and understanding, free trial credits.
-- **[Twilio](https://www.twilio.com/)** - Simple API for sending SMS and making calls, free trial with credits.
-- **[NewsAPI](https://newsapi.org/)** - Free access to recent news data from various sources.
-- **[Mapbox](https://www.mapbox.com/)** - Easy-to-use maps and geolocation service with a generous free tier.
-- **[SheetDB](https://sheetdb.io/)** - Turns Google Sheets into a REST API for quick MVP data handling.
-- **[Mocky](https://mocky.io/)** - Tool for generating custom mock APIs.
-- **[Mockaroo](https://www.mockaroo.com/)** - Mock tool to generate up to 1,000 rows of test data in CSV, JSON, SQL, and Excel formats.
-- **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing.
-- **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data.
-- **[DBeaver Community](https://dbeaver.io/)** - Open-source database management tool supporting multiple database types (MySQL, PostgreSQL, SQLite, Oracle, etc.), with features for data visualization, SQL editing, and database administration.
-
-### AI & ML
-
-- **[Hugging Face Transformers](https://huggingface.co/docs/transformers/)** - Pre-trained NLP models, no need to train from scratch.
-- **[Teachable Machine](https://teachablemachine.withgoogle.com/)** - Train image, sound, and pose models in the browser without code.
-- **[Google Colab](https://colab.research.google.com/)** - Free Jupyter notebook with GPU support for quick prototyping of ML models.
-- **[IBM Watson AI](https://www.ibm.com/cloud/watson)** - NLP, vision, and language tools with free tier for basic tasks.
-- **[RunwayML](https://runwayml.com/)** - No-code tool for computer vision, quickly deploys AI models for images or videos.
-- **[Replicate](https://replicate.com/)** - Run and fine-tune open-source models. Deploy custom models at scale. All with one line of code.
-
-### LLM Models/Tools/Services
-- **[YouLearn.AI](https://www.youlearn.ai)** - AI-powered learning platform that allows users to upload various content (PDFs, videos, web pages) and interact with AI for document analysis, Q&A, and summarization.
-
-### MCP Servers/Tools
-
-- **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** - A cybersecurity toolkit that connects AI assistants to security tools.
-- **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - ghidraMCP is an Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications.
-- **[MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan)** - An MCP Security Scanner
-
-### Data Engineering & Big Data
-
-- **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL, good for small datasets.
-- **[Apache Kafka on Confluent Cloud](https://www.confluent.io/confluent-cloud/tryfree/)** - Free tier for real-time data streaming.
-- **[Looker Studio (formerly Google Data Studio)](https://lookerstudio.google.com/)** - Free data visualization tool for creating quick dashboards.
-- **[Fivetran Free Tier](https://www.fivetran.com/pricing)** - Managed connectors to pull data from popular sources into your database.
-- **[Pandas Profiling](https://pandas-profiling.ydata.ai/)** - Auto-generate data analysis reports from Pandas DataFrames.
-- **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Access open datasets for building data-driven MVPs quickly.
-
-### Cybersecurity
-
-- **[Nuclei](https://docs.projectdiscovery.io/tools/nuclei/overview)** - Open-source vulnerability scanner powered by the global security community for finding vulnerabilities.
-- **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web application security scanner for finding vulnerabilities.
-- **[Burp Suite Community](https://portswigger.net/burp)** - Free tool for manual vulnerability assessments of web apps.
-- **[Nmap](https://nmap.org/)** - Network discovery and security auditing tool, great for network vulnerability checks.
-- **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer, helpful for quick network debugging.
-- **[Metasploit](https://www.metasploit.com/)** - A tool used by cybersecurity professionals to perform penetration tests.
-- **[Sqlmap](http://sqlmap.org/)** - A penetration testing tool that automates the detection and exploitation of SQL injection flaws.
-- **[Wfuzz](https://github.com/xmendez/wfuzz)** - Web application fuzz testing CLI tool.
-- **[Sudomy](https://github.com/Screetsec/Sudomy)** - Subdomain enumeration tool for collecting subdomains and performing automated reconnaissance.
-- **[Frida](https://frida.re/)** - A reverse engineering tool for Android and Windows applications.
+- **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - Robust Microsoft framework for modern web applications and APIs
+- **[Express.js](https://expressjs.com/)** - Minimalist Node.js framework, easy REST API setup
+- **[FastAPI](https://fastapi.tiangolo.com/)** - Python framework for building APIs quickly with built-in docs
+- **[Firebase Functions](https://firebase.google.com/docs/functions)** - Serverless backend with fast deployment
+- **[Flask](https://flask.palletsprojects.com/)** - Lightweight Python microframework for simple backends
+- **[Hasura](https://hasura.io/)** - GraphQL engine for PostgreSQL, instant GraphQL API creation
+- **[Manifest](https://manifest.build)** - Instant Headless CMS / Micro-backend in 1 file
 
 ### Blockchain & Web3
+- **[Alchemy](https://www.alchemy.com/)** - Easy-to-use platform for blockchain APIs and developer tools
+- **[Infura](https://infura.io/)** - API for connecting to Ethereum blockchain with free transactions
+- **[MetaMask](https://metamask.io/)** - Browser extension for managing blockchain wallets and DApps
+- **[Moralis](https://moralis.io/)** - Web3 backend with APIs, user authentication, and data storage
+- **[Remix IDE](https://remix.ethereum.org/)** - Browser-based Solidity IDE for smart contracts
 
-- **[Alchemy](https://www.alchemy.com/)** - Easy-to-use platform for blockchain APIs and developer tools, free tier included.
-- **[MetaMask](https://metamask.io/)** - Browser extension for managing blockchain wallets and accessing DApps.
-- **[Infura](https://infura.io/)** - API for connecting to the Ethereum blockchain, with free monthly transactions.
-- **[Moralis](https://moralis.io/)** - Web3 backend with APIs, user authentication, and data storage.
-- **[Remix IDE](https://remix.ethereum.org/)** - Browser-based Solidity IDE, ideal for writing and testing smart contracts.
+### Browser Extensions & Dev Tools
+- **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** - Advanced Eyedropper, Color Picker, Gradient Generator
+- **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** - Simple CSS property viewer
+- **[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)** - React debugging tools for Chrome
+- **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)** - Easiest way to identify fonts on web pages
 
-### Game Development
+### Collaboration & Communication
+- **[Coda](https://coda.io/)** - Document tool blending text and tables for project tracking
+- **[Discord](https://discord.com/)** - Voice, video, and chat communication for team discussions
+- **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration tool for documentation
+- **[Miro](https://miro.com/)** - Interactive whiteboard for brainstorming and visual planning
+- **[Notion](https://www.notion.so/)** - Workspace for organizing notes, ideas, and tasks
+- **[Slack](https://slack.com/)** - Communication tool with channels for team coordination
+- **[Trello](https://trello.com/)** - Kanban-style board for task tracking
 
-- **[Unity Personal](https://unity.com/products/unity-personal)** - Free game engine for indie developers, ideal for cross-platform, rapid and blitz 2D/3D games.
-- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes.
-- **[Godot](https://godotengine.org/)** - Open-source game engine, perfect for lightweight 2D and 3D games.
-- **[Tiled](https://www.mapeditor.org/)** - Free tool for creating 2D tile maps, great for game prototyping.
-- **[Construct 3](https://www.construct.net/en)** - No-code game development platform with a free tier for building prototypes.
-- **[Stability.ai](https://stability.ai/)** - For stable models.
-- **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation app.
+### Cybersecurity Tools
+- **[Burp Suite Community](https://portswigger.net/burp)** - Free tool for manual vulnerability assessments
+- **[Frida](https://frida.re/)** - Reverse engineering tool for Android and Windows applications
+- **[Metasploit](https://www.metasploit.com/)** - Tool for penetration testing by cybersecurity professionals
+- **[Nmap](https://nmap.org/)** - Network discovery and security auditing tool
+- **[Nuclei](https://docs.projectdiscovery.io/tools/nuclei/overview)** - Open-source vulnerability scanner
+- **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web application security scanner
+- **[Sqlmap](http://sqlmap.org/)** - Penetration testing tool for SQL injection detection
+- **[Sudomy](https://github.com/Screetsec/Sudomy)** - Subdomain enumeration tool for reconnaissance
+- **[Wfuzz](https://github.com/xmendez/wfuzz)** - Web application fuzz testing CLI tool
+- **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer for debugging
+
+### Data Engineering & Analytics
+- **[Apache Kafka on Confluent Cloud](https://www.confluent.io/confluent-cloud/tryfree/)** - Free tier for real-time data streaming
+- **[DBeaver Community](https://dbeaver.io/)** - Open-source database management tool
+- **[Fivetran Free Tier](https://www.fivetran.com/pricing)** - Managed connectors for data integration
+- **[Google BigQuery Sandbox](https://cloud.google.com/bigquery/docs/sandbox)** - Free data warehouse with SQL
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Access open datasets for data-driven MVPs
+- **[Looker Studio](https://lookerstudio.google.com/)** - Free data visualization for dashboards
+- **[Pandas Profiling](https://pandas-profiling.ydata.ai/)** - Auto-generate data analysis reports
 
 ### Data Visualization
+- **[Chart.js](https://www.chartjs.org/)** - Lightweight JavaScript library for frontend charts
+- **[Draw.io](https://www.diagrams.net/)** - Open-source diagramming tool with Google Drive integration
+- **[Google Charts](https://developers.google.com/chart)** - Simple API for website data visualizations
+- **[Plotly](https://plotly.com/)** - Interactive graphing for data visualization in Python
+- **[Tableau Public](https://public.tableau.com/)** - Free version for interactive, shareable dashboards
 
-- **[Plotly](https://plotly.com/)** - Interactive graphing for data visualization in Python.
-- **[Tableau Public](https://public.tableau.com/)** - Free version for creating interactive, shareable data dashboards.
-- **[Google Charts](https://developers.google.com/chart)** - Simple API for adding data visualizations to your website.
-- **[Chart.js](https://www.chartjs.org/)** - Lightweight JavaScript library for quick and easy charts on the frontend.
-- **[Draw.io](https://www.diagrams.net/)** - An open-source diagramming tool for creating structured diagrams, flowcharts, and more, with Google Drive integration.
+### Database & Storage
+- **[Airtable](https://airtable.com/)** - Easy-to-use database with spreadsheet interface
+- **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync
+- **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - Managed NoSQL database with free tier
+- **[PlanetScale](https://planetscale.com/)** - Serverless MySQL database with free tier
+- **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with instant SQL database
 
-### Generator & Snippet
+### Deployment & Hosting
+- **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Run code in response to events
+- **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless compute at the edge
+- **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites
+- **[Glitch](https://glitch.com/)** - In-browser IDE for deploying Node.js apps instantly
+- **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions
+- **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD from GitHub
+- **[Vercel](https://vercel.com/)** - One-click deployment with auto scaling and global CDN
+- **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** - Built-in serverless functions
 
-- **[Vercel OG Image Playground](https://og-playground.vercel.app)** - Generate Open Graph images with Vercel’s Edge Function.
-- **[Scrollbar.app](https://scrollbar.app)** - Simple CSS scrollbar editor.
-- **[Tailwind CSS Color Generator](https://uicolors.app/create)** - Generate, edit, save and share Tailwind CSS color shades based on a given hexcode or HSL color.
-- **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern, background snippets
-- **[Gradiently](https://gradienty.codes)** - Create stunning visuals effortlessly with our Tailwind Gradient Generator.
-- **[Haikei](https://app.haikei.app)** - A web-based design tool to generate unique SVG design assets for websites
+### Design & UI/UX
+- **[Adobe XD Free](https://www.adobe.com/products/xd.html)** - Lightweight design tool for wireframes and prototypes
+- **[Blender](https://www.blender.org/)** - Free and open-source 3D computer graphics software
+- **[Canva](https://www.canva.com/)** - Simple design tool with templates for mockups and presentations
+- **[Excalidraw](https://excalidraw.com/)** - Collaborative whiteboard for sketch-style diagrams
+- **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes
+- **[GIMP](https://www.gimp.org/)** - Open-source image editor comparable to Photoshop
+- **[InVision Freehand](https://www.invisionapp.com/freehand)** - Digital whiteboard for brainstorming
+- **[Kdenlive](https://kdenlive.org/)** - Professional-grade, open-source video editor
+- **[LibreOffice](https://www.libreoffice.org/)** - Free, open-source office suite alternative
+- **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app
+- **[ProtoPie](https://www.protopie.io/)** - Intuitive prototyping tool for interactive mockups
+- **[v0](https://v0.dev/)** - Powerful tool for generating high-quality UIs and code
+- **[Whimsical](https://whimsical.com/)** - Drag-and-drop wireframing tool for quick prototyping
 
-### AI Tools
+### Design Resources
+#### Fonts
+- **[Geist Font](https://vercel.com/font)** - Developer-focused typeface inspired by Swiss design
+- **[Onest](https://github.com/simpals/onest)** - Geometric and humanistic font blend
 
-- **[Bolt](https://bolt.new/)** - Bolt.new is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser
-- **[Cursor](https://www.cursor.com/)** - Cursor is an AI-powered integrated development environment for Windows, macOS and Linux designed to enhance developer productivity by integrating advanced artificial intelligence features directly into the coding environment.
-- **[Windsurf](https://codeium.com/windsurf)** - Windsurf is an AI-powered code editor that helps you write code faster and more accurately. It provides real-time code completion, code suggestions, and code refactoring.
+#### Icons
+- **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - Collection of icons used across Vercel products
+- **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit by the community
+- **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
+- **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
 
-## Design
-
-### Tool
-
-- **[Figma](https://www.figma.com/)** - Collaborative design tool for wireframes and prototypes, real-time collaboration.
-- **[Blender](https://www.blender.org/)** - Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, BSD, Haiku, IRIX, and Linux.
-- **[Pixilart](https://www.pixilart.com/)** - Free browser-based pixel art app.
-- **[v0](https://v0.dev/)** - v0 is a powerful tool for generating high-quality UIs and code, and it's also an educational asset for designing and creating on the web.
-
-### Illustration
-
-- **[404 Illustrations](https://error404.fun)**- Royalty free illustrations for 404 pages
-- **[Humaaans](https://www.humaaans.com)** - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
+#### Illustrations
+- **[404 Illustrations (Error404.fun)](https://error404.fun)** - Royalty free illustrations for 404 pages
+- **[404 Illustrations (Kapwing)](https://www.kapwing.com/404-illustrations)** - Hand-crafted collection for 404 pages
+- **[Humaaans](https://www.humaaans.com)** - Mix-&-match illustrations of people
+- **[Open Peeps](https://www.openpeeps.com)** - Hand-drawn illustration library of people scenes
+- **[Popsy](https://popsy.co/illustrations)** - Biggest free Notion illustration set
 - **[SVG Illustrations](https://lukaszadam.com/illustrations)** - Free SVG Illustrations
-- **[Open Peeps](https://www.openpeeps.com)** - Open Peeps is a hand-drawn illustration library to create scenes of people.
-- **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - This website is a hand-crafted collection of illustrations that you can use for your website's 404 (Not Found) page.
-- **[Popsy](https://popsy.co/illustrations)** - The biggest free Notion illustration set.
 
-### Fonts
+### Frontend Development
+- **[Bootstrap](https://getbootstrap.com/)** - CSS framework with pre-designed responsive components
+- **[Next.js](https://nextjs.org/)** - Powers high-quality web apps leveraging React capabilities
+- **[Parcel](https://parceljs.org/)** - Zero-config bundler for quick app setup
+- **[React](https://reactjs.org/)** - JavaScript library with reusable components
+- **[SvelteKit](https://svelte.dev/)** - Fast and lightweight framework with minimal boilerplate
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-based CSS framework for quick styling
+- **[Vue.js](https://vuejs.org/)** - Lightweight, beginner-friendly framework for dynamic UIs
 
-- **[Geist Font](https://vercel.com/font)** - Geist is a developer-focused typeface inspired by Swiss design, embodying Vercel's principles of simplicity, minimalism, and speed.
-- **[Onest](https://github.com/simpals/onest)** - Onest blends geometric and humanistic styles, offering weights from thin to extra bold, perfect for reading long texts on screens.
+#### UI Libraries
+- **[Cult UI](https://www.cult-ui.com)** - Ready-to-use React components, Shadcn compatible
+- **[Magic UI](https://magicui.design)** - 50+ free animated components for React and TypeScript
+- **[Shadcn UI](https://ui.shadcn.com/)** - Beautifully designed components made with Tailwind CSS
 
-### Icons
+### Game Development
+- **[Construct 3](https://www.construct.net/en)** - No-code game development platform with free tier
+- **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation
+- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup
+- **[Godot](https://godotengine.org/)** - Open-source game engine for 2D and 3D games
+- **[Stability.ai](https://stability.ai/)** - For stable models
+- **[Tiled](https://www.mapeditor.org/)** - Free tool for creating 2D tile maps
+- **[Unity Personal](https://unity.com/products/unity-personal)** - Free game engine for indie developers
 
-- **[Phosphor Icons](https://phosphoricons.com/)** - A versatile icon family for interfaces, diagrams, and more.
-- **[Radix Icons](https://icons.radix-ui.com/)** - An open-source component library for fast, accessible, and hassle-free development.
-- **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit made by the community.
-- **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - A collection of icons used across Vercel products.
+### Generators & Snippets
+- **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern background snippets
+- **[Gradiently](https://gradienty.codes)** - Tailwind Gradient Generator for stunning visuals
+- **[Haikei](https://app.haikei.app)** - Web-based tool to generate unique SVG design assets
+- **[Scrollbar.app](https://scrollbar.app)** - Simple CSS scrollbar editor
+- **[Tailwind CSS Color Generator](https://uicolors.app/create)** - Generate Tailwind CSS color shades
+- **[Vercel OG Image Playground](https://og-playground.vercel.app)** - Generate Open Graph images
 
-## Testing & Quality Assurance
+### Inspiration & Ideas
+- **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
+- **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
+- **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
+- **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
+- **[Unarkhive](https://unarkhive.com/)** - Curated links across various categories, updated daily
 
-- **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface, good for testing API endpoints.
-- **[Jest](https://jestjs.io/)** - JavaScript testing framework, easy setup with React and Node.js projects.
-- **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework for web applications.
-- **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** - Browser extension for creating simple UI tests without code.
-- **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing without a backend.
+### LLM Models/Tools/Services
+- **[YouLearn.AI](https://www.youlearn.ai)** - AI-powered learning platform for document analysis and Q&A
 
-## Deployment & Hosting
+### MCP Servers/Tools
+- **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** - Model Context Protocol server for LLM reverse engineering
+- **[MCP-Hydra](https://github.com/HappyHackingSpace/mcp-hydra)** - Cybersecurity toolkit connecting AI assistants to security tools
+- **[MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan)** - MCP Security Scanner
 
-### Hosting & Deployment
+### Mobile Development
+- **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development
+- **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications
+- **[Flutter](https://flutter.dev/)** - Google's UI toolkit for cross-platform apps
+- **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
 
-- **[Vercel](https://vercel.com/)** - One-click deployment for frontend frameworks, with auto scaling and global CDN.
-- **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD, deploys apps directly from GitHub.
-- **[Glitch](https://glitch.com/)** - In-browser IDE for deploying small Node.js apps instantly, great for demos.
-- **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites, ideal for deploying simple frontend MVPs.
+### Project Starters & Boilerplates
+- **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
 
-### Serverless & Cloud Functions
+### Testing & Quality Assurance
+- **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
+- **[Jest](https://jestjs.io/)** - JavaScript testing framework with easy React setup
+- **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing
+- **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface
+- **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** - Browser extension for creating UI tests
 
-- **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Run code in response to events with minimal setup.
-- **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions for small, event-driven tasks.
-- **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** - Built-in serverless functions for API routes in frontend apps.
-- **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless compute at the edge, with free tier for lightweight apps.
-
-## Collaboration & Communication
-
-- **[Slack](https://slack.com/)** - Communication tool with channels, great for team coordination.
-- **[Discord](https://discord.com/)** - Voice, video, and chat communication for team discussions and quick feedback.
-- **[Trello](https://trello.com/)** - Kanban-style board for task tracking, easy to set up and use.
-- **[Notion](https://www.notion.so/)** - Workspace for organizing notes, ideas, and tasks in one place.
-- **[Miro](https://miro.com/)** - Interactive whiteboard for brainstorming, flowcharting, and visual planning.
-- **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration tool for project documentation.
-- **[Coda](https://coda.io/)** - A powerful document tool that blends text and tables for real-time project tracking.
-
-## Presentation & Pitching
-
-- **[Canva](https://www.canva.com/)** - User-friendly design tool with templates for presentations.
-- **[LibreOffice Impress](https://www.libreoffice.org/discover/impress/)** - Free tool for creating presentations.
-- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative presentation tool.
-- **[ElevenLabs](https://elevenlabs.io)** - Create realistic speech with AI audio platform
-
-## Extension
-
-- **[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)** - Adds React debugging tools to the Chrome Developer Tools.
-- **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)** - The easiest way to identify fonts on web pages.
-- **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** - Advanced Eyedropper, Color Picker, Gradient Generator and more.
-- **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** - A simple CSS property viewer.
-
-## VPN
-1. VPN Web Extensions
+### VPN & Privacy
+- **[1.1.1.1](https://one.one.one.one)** - Free, public DNS resolver from Cloudflare and APNIC
+- **[BrowsecVPN](https://browsec.com/en/=and)** - Free Chrome/Mozilla VPN Extension
+- **[ProtonVPN](https://protonvpn.com)** - Free VPN for Win/Mac/Linux
 - **[TouchVPN](https://www.touchvpn.net)** - Free Chrome/Mozilla VPN Extension
-- **[BrowsecVPN](https://browsec.com/en/=and)** - Free Chrome/Mozilla VPN Extension(Alternative)
-2. VPN Apps
-- **[ProtonVPN](https://protonvpn.com)** - Free for Win/Mac/Linux
-- **[1.1.1.1](https://one.one.one.one)** - 1.1.1.1 is a free, public DNS resolver from Cloudflare and APNIC
 
+---
 
+## For Hackathon Organizers 🎯📋
 
+### Communication & Coordination
+- **[Discord](https://discord.com/)** - Voice, video, and chat for participant communication
+- **[Slack](https://slack.com/)** - Organized channels for team coordination and announcements
 
+### Event Documentation & Collaboration
+- **[Coda](https://coda.io/)** - Document tool for project tracking and event organization
+- **[HackMD](https://hackmd.io/)** - Real-time markdown collaboration for documentation
+- **[Notion](https://www.notion.so/)** - Comprehensive workspace for organizing event information
+
+### Participant Resources & Inspiration
+- **[Evernote Design](https://evernote.design/)** - Curated design resources for participants
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Open datasets for data-driven projects
+- **[RapidAPI](https://rapidapi.com/)** - API marketplace for finding external APIs
+
+### Presentation & Demo Tools
+- **[Canva](https://www.canva.com/)** - Easy-to-use design tool for presentation templates
+- **[ElevenLabs](https://elevenlabs.io)** - AI audio platform for creating realistic speech
+- **[Google Slides](https://www.google.com/slides/about/)** - Collaborative presentation tool
+- **[LibreOffice Impress](https://www.libreoffice.org/discover/impress/)** - Free presentation creation tool
+
+### Project Management & Tracking
+- **[Miro](https://miro.com/)** - Interactive whiteboard for planning and visual collaboration
+- **[Trello](https://trello.com/)** - Kanban-style boards for tracking team progress
+
+### Quick Deployment & Hosting for Demos
+- **[GitHub Pages](https://pages.github.com/)** - Free hosting for static project demos
+- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations
+- **[Netlify](https://www.netlify.com/)** - Easy hosting with CI/CD for participant projects
+- **[Vercel](https://vercel.com/)** - One-click deployment for frontend project demos
 ---
 
 ![Made in love](img/hhs.svg)
