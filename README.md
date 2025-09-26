@@ -24,6 +24,15 @@ Tools and resources to help you build, design, and win hackathons! 🏆
    - [Cybersecurity](#cybersecurity)
    - [Blockchain & Web3](#blockchain--web3)
    - [Game Development](#game-development)
+      - [Game Engines](#game-engines)
+      - [Frameworks](#frameworks)
+      - [Game Development Tools](#game-development-tools)
+      - [Online Services](#online-services)
+      - [Audio Tools](#audio-tools)
+      - [Graphics & Art Tools](#graphics--art-tools)
+      - [Color & Design Resources](#color--design-resources)
+      - [Game Design & Management](#game-design--management)
+      - [Game Hosting & Marketing](#game-hosting--marketing)
    - [Data Visualization](#data-visualization)
    - [Generator & Snippet](#generator--snippet)
 4. [Design](#design)
@@ -188,11 +197,90 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Game Development
 
+#### Game Engines
+- **[Unity](https://unity.com/)** - Robust and beginner-friendly game engine for indie developers, ideal for cross-platform, rapid and blitz 2D/3D games.
 - **[Unity Personal](https://unity.com/products/unity-personal)** - Free game engine for indie developers, ideal for cross-platform, rapid and blitz 2D/3D games.
-- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes.
+- **[Unreal Engine](https://www.unrealengine.com/)** - Powerful engine with a steep learning curve, great for high-quality 3D games.
 - **[Godot](https://godotengine.org/)** - Open-source game engine, perfect for lightweight 2D and 3D games.
-- **[Tiled](https://www.mapeditor.org/)** - Free tool for creating 2D tile maps, great for game prototyping.
+- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes.
 - **[Construct 3](https://www.construct.net/en)** - No-code game development platform with a free tier for building prototypes.
+- **[PICO-8](https://www.lexaloffle.com/pico-8.php)** - Fantasy console that encourages small, but expressive designs.
+- **[Heaps](https://heaps.io/)** - Mature cross platform graphics engine designed for high performance games.
+- **[Game Maker Studio](https://www.yoyogames.com/gamemaker)** - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker.
+
+#### Frameworks
+- **[Phaser](https://phaser.io/)** - Fast, free and open-source framework for Canvas and WebGL powered browser games.
+- **[CraftyJS](https://craftyjs.com/)** - Free and lightweight JavaScript framework for 2D games.
+- **[PyGame](https://www.pygame.org/)** - Free set of python modules designed for writing video games.
+- **[libGDX](https://libgdx.com/)** - Cross-platform Java game development framework based on OpenGL.
+- **[LÖVE](https://love2d.org/)** - Open-source framework to make 2D games in Lua.
+- **[Pixelbox.js](https://pixwlk.itch.io/pixelbox)** - Lightweight Javascript engine for browser games.
+- **[olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)** - A open source single-file prototyping and game-engine framework created in C++.
+
+#### Game Development Tools
+- **[Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition)** - Easy to use game engine for beginners.
+- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** - A C compiler, assembler, linker and set of libraries for the Z80 like Nintendo Gameboy.
+- **[Tiled](https://www.mapeditor.org/)** - Free, easy to use and flexible level editor for creating 2D tile maps.
+- **[LDtk](https://ldtk.io/)** - A fast, free, open source 2D level editor from the director of Dead Cells.
+
+#### Online Services
+- **[Dreamlo](https://dreamlo.com/)** - Add leaderboards and promocodes to your game.
+- **[YogurtTheHorse Leaderboards](https://github.com/YogurtTheHorse/highscores)** - Free to use leaderboards with open-source server side.
+
+#### Audio Tools
+- **[Audacity](https://www.audacityteam.org/)** - Free, open source, cross-platform audio software.
+- **[LMMS](https://lmms.io/)** - Free cross-platform alternative to commercial programs like FL Studio.
+- **[Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free)** - Free, cross-platform and intuitive audio workstation.
+- **[Bosca Ceoil](https://boscaceoil.net/)** - Free, easy to use tool for creating music.
+- **[Famistudio](https://famistudio.org/)** - Very simple music editor for the SNES.
+- **[Tonnoform](https://nikos1001.github.io/Tonnoform/)** - Easy to use open-source 8 bit music making tool.
+- **[cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/)** - Generate music with a certain level of quality.
+- **[MuseScore](https://musescore.org/)** - Create, play and print beautiful sheet music.
+- **[BeepBox](https://www.beepbox.co)** - Online tool for sketching and sharing instrumental melodies.
+- **[bfxr](https://www.bfxr.net/)** - Flash + AIR sound effects generator.
+- **[sfxr](https://sfxr.me/)** - Dead easy game sound effects generator.
+- **[ZzFX](https://killedbyapixel.github.io/ZzFX/)** - Sound effect generator similar to BFXR/SFXR but reworked from the ground up.
+
+#### Graphics & Art Tools
+- **[Blender](https://www.blender.org/)** - Open source 3D creation. Free to use for any purpose, forever.
+- **[Magicavoxel](https://www.voxelmade.com/magicavoxel/)** - A free lightweight 8-bit voxel editor and interactive path tracing renderer.
+- **[ZBrush](https://pixologic.com/zbrush/trial/)** - Industry standard for digital sculpting and painting.
+- **[GIMP](https://www.gimp.org/)** - Free and Open Source Image Editor.
+- **[Paint.NET](https://www.getpaint.net/)** - Free image and photo editing software.
+- **[Krita](https://krita.org/)** - Professional free and open source painting program.
+- **[FireAlpaca](http://firealpaca.com/)** - Free digital painting software, on Mac and Windows.
+- **[Pyxel Edit](https://pyxeledit.com/)** - Pixel art drawing application especially designed for working with tiles.
+- **[Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** - Free and open source pixel art editor created with the Godot-Engine.
+- **[Lospec Pixel Editor](https://lospec.com/pixel-editor/)** - Free pixel art program that you can use right here in your web browser.
+- **[Aseprite](https://www.aseprite.org/)** - Animated sprite editor and pixel art tool.
+- **[PiskelApp](https://www.piskelapp.com/)** - Free online editor for animated sprites & pixel art.
+- **[Inkscape](https://inkscape.org/)** - Free and open source vector graphics editor.
+- **[Figma](https://www.figma.com/)** - (Free) vector graphics editor that supports collaborative editing.
+
+#### Color & Design Resources
+- **[Lospec Color Palette](https://lospec.com/palette-list)** - Searchable collection of palettes for pixel art.
+- **[Flat UI Colors 2](https://flatuicolors.com/)** - 280 handpicked colors split into 13 palettes.
+- **[Autodraw](https://www.autodraw.com/)** - Online tool to predict the placeholder images you need.
+- **[Smart upscaler](https://icons8.com/upscaler)** - Enlarge and enhance images automatically using AI.
+- **[ZzSprite](https://killedbyapixel.github.io/ZzSprite/)** - Procedurally generate tiny pixel art sprites with options for mutation and animation frames.
+- **[ZzArt](https://zzart.3d2k.com/)** - Evolve HD textures for use in your games.
+- **[Removebg](https://www.remove.bg/)** - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks.
+- **[Easy Releasy](https://jannikboysen.itch.io/easy-releasy)** - A downloadable template pack to create itch.io pages.
+- **[BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/)** - Free online pixel font editor with gallery of fonts from other users.
+
+#### Game Design & Management
+- **[Machinations](https://machinations.io/)** - (Free) online tool to prototype the internal economy of your game using Machinations language.
+- **[Miro](https://miro.com/)** - (Free) online tool with infinite canvas to sketch and design prototypes.
+- **[Lunacy](https://icons8.com/lunacy)** - Free design alternative to Figma.
+- **[PureRef](https://www.pureref.com/)** - A free stand-alone program for Windows, Mac and Linux that keeps track of your reference images.
+- **[TomatoTimer](https://tomato-timer.com/)** - A pomodoro timer that is dead easy to use.
+- **[Pomofocus](https://pomofocus.io/)** - Combines tasks with a pomodoro timer to estimate when you should be done and to track progress.
+- **[Toggl Track](https://toggl.com/track/)** - (Free) time tracking for any workflow. Online, offline, or on-the-go.
+
+#### Game Hosting & Marketing
+- **[itch.io](https://itch.io/)** - Simple way share indie games online for free.
+- **[Screen2Gif](https://www.screentogif.com/)** - Screen, webcam and sketchboard recorder with an integrated editor that exports to gif.
+- **[Chronolapse](https://www.chronolapse.com/)** - Easily create your own timelapse videos.
 - **[Stability.ai](https://stability.ai/)** - For stable models.
 - **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation app.
 
@@ -306,8 +394,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[1.1.1.1](https://one.one.one.one)** - 1.1.1.1 is a free, public DNS resolver from Cloudflare and APNIC
 
 
+## Acknowledgement
+
+Game engines, frameworks, and tools from [awesome-gamejam](https://github.com/wujood/awesome-gamejam) were used to expand our Game Development section.
 
 
----
 
 ![Made in love](img/hhs.svg)
