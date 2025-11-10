@@ -1,6 +1,7 @@
 # Awesome-Hackathon
 
-![Awesome Hackathon](img/logo.avif)
+<img width="792" height="654" alt="image" src="https://github.com/user-attachments/assets/e1ac1644-7cf8-4ad9-9d15-178afd5d9fd9" />
+
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
