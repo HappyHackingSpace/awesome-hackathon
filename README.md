@@ -1,5 +1,5 @@
 # Awesome-Hackathon
-![Awesome Hackathon](img/logo.avif)
+![Awesome Hackathon](img/logo.png)
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
