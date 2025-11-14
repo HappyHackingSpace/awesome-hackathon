@@ -1,5 +1,5 @@
 # Awesome-Hackathon
-![Awesome Hackathon](img/logo.avif)
+<img width="792" height="654" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/f85bc89a-7e15-47eb-965d-93e2123c872c" />
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
