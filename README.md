@@ -1,5 +1,7 @@
 # Awesome Hackathon
-<img width="792" height="654" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/f85bc89a-7e15-47eb-965d-93e2123c872c" />
+<p align="center">
+  <img src="img/banner.png" alt="Awesome Hackathon" width="1280" />
+</p>
 
 Tools and resources to help you build, design, and win hackathons! 🏆
 
@@ -67,7 +69,9 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### AI Development Tools
 - **[Bolt](https://bolt.new/)** - AI-powered web development agent for full-stack applications in browser
+- **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** - Agentic coding tool from Anthropic that operates in the terminal
 - **[Cursor](https://www.cursor.com/)** - AI-powered integrated development environment with advanced features
+- **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code completions and entire functions
 - **[Windsurf](https://codeium.com/windsurf)** - AI-powered code editor with real-time completion and suggestions
 
 ### APIs & Data Sources
