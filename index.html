@@ -12,30 +12,28 @@
     <!-- Google / Search Engine Tags -->
     <meta itemprop="name" content="Awesome Hackathon">
     <meta itemprop="description" content="Tools and resources to help you build, design, and win hackathons! 🏆">
-    <meta itemprop="image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/master/logo.webp">
+    <meta itemprop="image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/main/img/banner.png">
 
     <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://tools.happyhacking.space">
+    <meta property="og:url" content="https://happyhackingspace.github.io/awesome-hackathon">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Awesome Hackathon">
     <meta property="og:description" content="Tools and resources to help you build, design, and win hackathons! 🏆">
-    <meta property="og:image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/master/logo.webp">
+    <meta property="og:image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/main/img/banner.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Free for Developers">
-    <meta name="twitter:description" content="Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.">
-    <meta name="twitter:image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/master/logo.webp">
+    <meta name="twitter:title" content="Awesome Hackathon">
+    <meta name="twitter:description" content="Tools and resources to help you build, design, and win hackathons! 🏆">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/HappyHackingSpace/awesome-hackathon/main/img/banner.png">
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css">
 
     <!-- Favicon -->
-    <link rel="icon" href="logo.webp" type="image/gif">
+    <link rel="icon" href="img/logo.webp" type="image/webp">
 
-    <!-- Google Analytics -->
-   
   </head>
 
   <body>
@@ -45,7 +43,12 @@
 
     <script>
       window.$docsify = {
-        name: "<img src='logo.webp' width='30' height='30' style=''> Awesome Hackathon",
+        name: `
+          <div style='display: inline-flex; align-items: center; justify-content: center; gap: 10px;'>
+            <img src='img/logo.webp' width='30' height='30' alt='Awesome Hackathon logo'>
+            <span>Awesome Hackathon</span>
+          </div>
+        `,
         repo: "HappyHackingSpace/awesome-hackathon",
         search: ["/"],
         darklightTheme: {
@@ -64,6 +67,9 @@
     <style>
       blockquote:first-of-type {
         background-color: rgba(235, 248, 242, 0.363);
+      }
+      .github-corner {
+        display: none;
       }
     </style>
   </body>

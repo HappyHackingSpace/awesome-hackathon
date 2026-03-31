@@ -334,6 +334,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Mobile Development
 - **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development
+- **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
 - **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications
 - **[Flutter](https://flutter.dev/)** - Google's UI toolkit for cross-platform apps
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
