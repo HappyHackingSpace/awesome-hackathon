@@ -385,7 +385,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Quick Deployment & Hosting for Demos
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static project demos
-- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations
+- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations <-- Deprecated
 - **[Netlify](https://www.netlify.com/)** - Easy hosting with CI/CD for participant projects
 - **[Vercel](https://vercel.com/)** - One-click deployment for frontend project demos
 
