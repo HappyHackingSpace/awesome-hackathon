@@ -334,6 +334,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Mobile Development
 - **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development
+- **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
 - **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications
 - **[Flutter](https://flutter.dev/)** - Google's UI toolkit for cross-platform apps
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
@@ -384,7 +385,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Quick Deployment & Hosting for Demos
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static project demos
-- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations
+- **[Glitch](https://glitch.com/)** - Quick deployment for live project demonstrations <-- Deprecated
 - **[Netlify](https://www.netlify.com/)** - Easy hosting with CI/CD for participant projects
 - **[Vercel](https://vercel.com/)** - One-click deployment for frontend project demos
 
