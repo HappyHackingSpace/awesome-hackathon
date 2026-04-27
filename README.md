@@ -269,6 +269,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 #### Graphics & Art Tools
 - **[Aseprite](https://www.aseprite.org/)** - Animated sprite editor and pixel art tool
 - **[Blender](https://www.blender.org/)** - Open source 3D creation, free to use for any purpose
+- **[BulkPicTools](https://bulkpictools.com/)** - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, and watermark 1,000+ images at once — no upload, no account, works offline. Perfect for quickly optimizing demo screenshots and pitch deck assets.
 - **[Figma](https://www.figma.com/)** - Free vector graphics editor with collaborative editing
 - **[FireAlpaca](http://firealpaca.com/)** - Free digital painting software for Mac and Windows
 - **[GIMP](https://www.gimp.org/)** - Free and Open Source Image Editor
