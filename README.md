@@ -346,6 +346,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### Testing & Quality Assurance
 - **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
 - **[Jest](https://jestjs.io/)** - JavaScript testing framework with easy React setup
+- **[JSON Diff](https://alltoolsverse.com/tools/json-diff/)** - Compare two JSON values and inspect added, removed, and changed paths in a browser
 - **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing
 - **[Postman](https://www.postman.com/)** - API testing tool with intuitive interface
 - **[Selenium IDE](https://www.selenium.dev/selenium-ide/)** - Browser extension for creating UI tests
