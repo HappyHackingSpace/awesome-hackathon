@@ -197,6 +197,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit by the community
 - **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
 - **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
+- **[SVGicons](https://svgicons.com/)** - Search and preview open-source SVG icon sets, with copyable SVG and per-set license information
 
 #### Illustrations
 - **[404 Illustrations (Error404.fun)](https://error404.fun)** - Royalty free illustrations for 404 pages
