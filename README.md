@@ -160,6 +160,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Firebase Firestore](https://firebase.google.com/products/firestore)** - Realtime NoSQL database with offline sync
 - **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)** - Managed NoSQL database with free tier
 - **[PlanetScale](https://planetscale.com/)** - Serverless MySQL database with free tier
+- **[Prisma Postgres](https://www.prisma.io/postgres)** - Managed PostgreSQL with free plan and zero cold starts
 - **[Supabase](https://supabase.com/)** - Open-source Firebase alternative with instant SQL database
 
 ### Deployment & Hosting
@@ -169,6 +170,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Glitch](https://glitch.com/)** - In-browser IDE for deploying Node.js apps instantly
 - **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions
 - **[Netlify](https://www.netlify.com/)** - Free static hosting with CI/CD from GitHub
+- **[Prisma Compute](https://www.prisma.io/compute)** - Host TypeScript apps next to Prisma Postgres, 1M requests/month free
 - **[Vercel](https://vercel.com/)** - One-click deployment with auto scaling and global CDN
 - **[Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)** - Built-in serverless functions
 
