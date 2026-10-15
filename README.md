@@ -200,7 +200,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
 - **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
 - **[SVGicons](https://svgicons.com/)** - Search and preview open-source SVG icon sets, with copyable SVG and per-set license information
-- **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: pull ICO/PNG/SVG/Apple touch icons from any site at full size
+- **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
 
 #### Illustrations
 - **[404 Illustrations (Error404.fun)](https://error404.fun)** - Royalty free illustrations for 404 pages
