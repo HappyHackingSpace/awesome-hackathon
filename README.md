@@ -176,6 +176,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Design & UI/UX
 - **[Adobe XD Free](https://www.adobe.com/products/xd.html)** - Lightweight design tool for wireframes and prototypes
+- **[APPLORE](https://applore.app/app-icon-generator)** - Free app icon export in every iOS, Android and web size, no sign-up
 - **[Blender](https://www.blender.org/)** - Free and open-source 3D computer graphics software
 - **[Canva](https://www.canva.com/)** - Simple design tool with templates for mockups and presentations
 - **[Excalidraw](https://excalidraw.com/)** - Collaborative whiteboard for sketch-style diagrams
