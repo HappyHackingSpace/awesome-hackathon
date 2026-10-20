@@ -155,6 +155,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Google Charts](https://developers.google.com/chart)** - Simple API for website data visualizations
 - **[Plotly](https://plotly.com/)** - Interactive graphing for data visualization in Python
 - **[Tableau Public](https://public.tableau.com/)** - Free version for interactive, shareable dashboards
+- **[ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html)** - Turn pasted CSV into charts for a demo or pitch, with editable labels and PNG or interactive HTML export
 
 ### Database & Storage
 - **[Airtable](https://airtable.com/)** - Easy-to-use database with spreadsheet interface
