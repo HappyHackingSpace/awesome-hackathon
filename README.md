@@ -167,6 +167,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### Deployment & Hosting
 - **[AWS Lambda Free Tier](https://aws.amazon.com/lambda/pricing/)** - Run code in response to events
 - **[Cloudflare Workers](https://developers.cloudflare.com/workers/)** - Serverless compute at the edge
+- **[deed.page](https://deed.page/)** - Publish a static demo to a permanent HTTPS URL with one `curl` PUT, no account; free plan, MCP server for AI agents
 - **[GitHub Pages](https://pages.github.com/)** - Free hosting for static websites
 - **[Glitch](https://glitch.com/)** - In-browser IDE for deploying Node.js apps instantly
 - **[Google Cloud Functions Free Tier](https://cloud.google.com/functions/pricing)** - Serverless functions
