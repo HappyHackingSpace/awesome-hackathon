@@ -326,6 +326,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Vercel OG Image Playground](https://og-playground.vercel.app)** - Generate Open Graph images
 
 ### Inspiration & Ideas
+- **[CodeTrendy](https://codetrendy.com/)** - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
 - **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
