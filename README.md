@@ -332,7 +332,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
 - **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
-- **[SitePatent](https://sitepatent.com/)** - Hand-reviewed discovery platform of newly launched startups and tools, to see what makers ship in a category, with a free read-only MCP server
+- **[SitePatent](https://sitepatent.com/)** - Screened discovery platform of newly launched startups and tools, to see what makers ship in a category, with a free read-only MCP server
 - **[Unarkhive](https://unarkhive.com/)** - Curated links across various categories, updated daily
 
 ### LLM Models/Tools/Services
