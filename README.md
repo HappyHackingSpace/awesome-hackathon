@@ -351,6 +351,11 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
+- **[Django Invoice Reminders](https://github.com/Sid-Lais/django-invoice-reminders)** - Automated invoice payment reminder emails for Django, sent on a schedule via the Mailtrap Email API
+- **[Express Email OTP Login](https://github.com/manishgupta412/express-email-otp-login)** - Passwordless login for Express with email one-time codes and magic links, sent via the Mailtrap Email API
+- **[Laravel Appointment Reminders](https://github.com/jy7lsna/laravel-appointment-reminders)** - Laravel appointment booking with confirmation emails, calendar invites and automatic reminder emails
+- **[Next.js Waitlist Double Opt-In](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in)** - Next.js waitlist with double opt-in confirmation, a referral queue and a bulk launch email, sent via the Mailtrap Email API
+- **[Python Price Drop Alerts](https://github.com/manishgupta412/python-price-drop-alerts)** - Price-drop and back-in-stock email alerts in Python, run on a GitHub Actions schedule, with a local price-history dashboard
 
 ### Testing & Quality Assurance
 - **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
