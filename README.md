@@ -96,6 +96,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Magic Link](https://magic.link/)** - Passwordless login with email, frictionless user authentication
 - **[NextAuth.js](https://next-auth.js.org/)** - Authentication for Next.js applications
 - **[SuperTokens](https://supertokens.com/)** - Open-source authentication with pre-built integrations
+- **[express-email-otp-login](https://github.com/parv15/express-email-otp-login)** - Passwordless login for Express with email one-time codes and magic links (TypeScript, SQLite, rate limiting)
 
 ### Backend Development
 - **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)** - Robust Microsoft framework for modern web applications and APIs
