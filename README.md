@@ -286,6 +286,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Lospec Pixel Editor](https://lospec.com/pixel-editor/)** - Free pixel art program in your web browser
 - **[Magicavoxel](https://www.voxelmade.com/magicavoxel/)** - Free lightweight 8-bit voxel editor and path tracing renderer
 - **[Paint.NET](https://www.getpaint.net/)** - Free image and photo editing software
+- **[Pic2Vector](https://pic2vector.com/)** - Free browser-based PNG/JPG/WebP→SVG tracer (vtracer/WASM). Local processing, no upload, layered SVG export — handy for logos and pitch-deck assets.
 - **[PiskelApp](https://www.piskelapp.com/)** - Free online editor for animated sprites & pixel art
 - **[Pixelorama](https://github.com/Orama-Interactive/Pixelorama)** - Free and open source pixel art editor with Godot-Engine
 - **[Pyxel Edit](https://pyxeledit.com/)** - Pixel art drawing application designed for working with tiles
