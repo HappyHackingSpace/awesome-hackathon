@@ -199,12 +199,12 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Onest](https://github.com/simpals/onest)** - Geometric and humanistic font blend
 
 #### Icons
+- **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
 - **[Geist Icons](https://geist-ui.dev/en-us/components/icons)** - Collection of icons used across Vercel products
 - **[Lucide Icons](https://lucide.dev/)** - Beautiful & consistent icon toolkit by the community
 - **[Phosphor Icons](https://phosphoricons.com/)** - Versatile icon family for interfaces and diagrams
 - **[Radix Icons](https://icons.radix-ui.com/)** - Open-source component library for development
 - **[SVGicons](https://svgicons.com/)** - Search and preview open-source SVG icon sets, with copyable SVG and per-set license information
-- **[FaviconDL](https://favicondl.com/)** - Free favicon extractor and no-key API: extract available ICO/PNG/SVG/Apple touch icons and preserve their original size when possible
 
 #### Illustrations
 - **[404 Illustrations (Error404.fun)](https://error404.fun)** - Royalty free illustrations for 404 pages
@@ -232,8 +232,8 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 #### Game Engines
 - **[Construct 3](https://www.construct.net/en)** - No-code game development platform with a free tier for building prototypes
-- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes
 - **[Game Maker Studio](https://www.yoyogames.com/gamemaker)** - GameMaker Studio 2 is the latest and greatest incarnation of GameMaker
+- **[GDevelop](https://gdevelop.io/)** - No-code game creation tool with fast setup, suitable for quick prototypes
 - **[Godot](https://godotengine.org/)** - Open-source game engine, perfect for lightweight 2D and 3D games
 - **[Heaps](https://heaps.io/)** - Mature cross platform graphics engine designed for high performance games
 - **[PICO-8](https://www.lexaloffle.com/pico-8.php)** - Fantasy console that encourages small, but expressive designs
@@ -243,18 +243,18 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 #### Frameworks
 - **[CraftyJS](https://craftyjs.com/)** - Free and lightweight JavaScript framework for 2D games
+- **[libGDX](https://libgdx.com/)** - Cross-platform Java game development framework based on OpenGL
 - **[LÖVE](https://love2d.org/)** - Open-source framework to make 2D games in Lua
+- **[olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)** - Open source single-file prototyping and game-engine framework in C++
 - **[Phaser](https://phaser.io/)** - Fast, free and open-source framework for Canvas and WebGL powered browser games
 - **[Pixelbox.js](https://pixwlk.itch.io/pixelbox)** - Lightweight Javascript engine for browser games
 - **[PyGame](https://www.pygame.org/)** - Free set of python modules designed for writing video games
-- **[libGDX](https://libgdx.com/)** - Cross-platform Java game development framework based on OpenGL
-- **[olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)** - Open source single-file prototyping and game-engine framework in C++
 
 #### Game Development Tools
 - **[Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5-free-edition)** - Easy to use game engine for beginners
+- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** - A C compiler, assembler, linker and set of libraries for the Z80
 - **[LDtk](https://ldtk.io/)** - A fast, free, open source 2D level editor from the director of Dead Cells
 - **[Tiled](https://www.mapeditor.org/)** - Free, easy to use and flexible level editor for creating 2D tile maps
-- **[gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)** - A C compiler, assembler, linker and set of libraries for the Z80
 
 #### Online Services
 - **[Dreamlo](https://dreamlo.com/)** - Add leaderboards and promocodes to your game
@@ -263,16 +263,16 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 #### Audio Tools
 - **[Audacity](https://www.audacityteam.org/)** - Free, open source, cross-platform audio software
 - **[BeepBox](https://www.beepbox.co)** - Online tool for sketching and sharing instrumental melodies
+- **[bfxr](https://www.bfxr.net/)** - Flash + AIR sound effects generator
 - **[Bosca Ceoil](https://boscaceoil.net/)** - Free, easy to use tool for creating music
+- **[cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/)** - Generate music with a certain level of quality
 - **[Famistudio](https://famistudio.org/)** - Very simple music editor for the SNES
 - **[LMMS](https://lmms.io/)** - Free cross-platform alternative to commercial programs like FL Studio
 - **[MuseScore](https://musescore.org/)** - Create, play and print beautiful sheet music
+- **[sfxr](https://sfxr.me/)** - Dead easy game sound effects generator
 - **[Tonnoform](https://nikos1001.github.io/Tonnoform/)** - Easy to use open-source 8 bit music making tool
 - **[Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free)** - Free, cross-platform and intuitive audio workstation
 - **[ZzFX](https://killedbyapixel.github.io/ZzFX/)** - Sound effect generator similar to BFXR/SFXR
-- **[bfxr](https://www.bfxr.net/)** - Flash + AIR sound effects generator
-- **[cgMusic](http://maciej.codeminion.com/2008/05/cgmusic-computers-create-music/)** - Generate music with a certain level of quality
-- **[sfxr](https://sfxr.me/)** - Dead easy game sound effects generator
 
 #### Graphics & Art Tools
 - **[Aseprite](https://www.aseprite.org/)** - Animated sprite editor and pixel art tool
@@ -314,9 +314,9 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 #### Game Hosting & Marketing
 - **[Chronolapse](https://www.chronolapse.com/)** - Easily create your own timelapse videos
 - **[DeepMotion](https://www.deepmotion.com/)** - Text to 3D animation and Video to 3D animation app
+- **[itch.io](https://itch.io/)** - Simple way to share indie games online for free
 - **[Screen2Gif](https://www.screentogif.com/)** - Screen, webcam and sketchboard recorder with gif export
 - **[Stability.ai](https://stability.ai/)** - For stable models
-- **[itch.io](https://itch.io/)** - Simple way to share indie games online for free
 
 ### Generators & Snippets
 - **[bg.ibelick](https://bg.ibelick.com)** - Collection of modern background snippets
@@ -344,10 +344,10 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Mobile Development
 - **[Expo (React Native)](https://expo.dev/)** - Fast setup for cross-platform mobile development
-- **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
 - **[Firebase Cloud Messaging](https://firebase.google.com/products/cloud-messaging/)** - Easy push notifications
 - **[Flutter](https://flutter.dev/)** - Google's UI toolkit for cross-platform apps
 - **[Ionic](https://ionicframework.com/)** - Hybrid app framework using web technologies
+- **[React Native](https://reactnative.dev/)** - Hard setup but advanced cross-platform mobile development
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
