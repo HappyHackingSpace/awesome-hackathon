@@ -1,0 +1,18 @@
+name: Link Check
+
+on:
+  push:
+    branches: [main]
+    paths: ["**.md"]
+  pull_request:
+    paths: ["**.md"]
+  schedule:
+    - cron: "23 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    uses: HappyHackingSpace/actions/.github/workflows/link-check.yaml@v1
