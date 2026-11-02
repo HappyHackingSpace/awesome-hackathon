@@ -409,3 +409,7 @@ Game engines, frameworks, and tools from [awesome-gamejam](https://github.com/wu
 
 
 ![Made in love](img/hhs.svg)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HappyHackingSpace/awesome-hackathon&type=Date)](https://star-history.com/#HappyHackingSpace/awesome-hackathon&Date)
