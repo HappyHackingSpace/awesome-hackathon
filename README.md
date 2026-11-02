@@ -353,6 +353,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
 
 ### Testing & Quality Assurance
+- **[agent-qa](https://vostride.com)** - Natural-language web and mobile QA with persistent memory and self-improvement
 - **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
 - **[Jest](https://jestjs.io/)** - JavaScript testing framework with easy React setup
 - **[Mockoon](https://mockoon.com/)** - Mock API server to simulate APIs for testing
