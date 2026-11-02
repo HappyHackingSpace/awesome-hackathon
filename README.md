@@ -117,6 +117,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)** - Advanced Eyedropper, Color Picker, Gradient Generator
 - **[CSSViewer](https://chromewebstore.google.com/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)** - Simple CSS property viewer
 - **[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)** - React debugging tools for Chrome
+- **[Spoof Me](https://spoof-me.com/)** - Test your project as users on other devices, languages and timezones (Chrome/Firefox)
 - **[WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)** - Easiest way to identify fonts on web pages
 
 ### Collaboration & Communication
