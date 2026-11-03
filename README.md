@@ -332,6 +332,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
 - **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
+- **[Tensor Hack](https://tensorhack.com/hackathons)** - Open hackathons by city and topic (AI, web3, student), with listed prizes and deadlines, linked to each organizer
 - **[Unarkhive](https://unarkhive.com/)** - Curated links across various categories, updated daily
 
 ### LLM Models/Tools/Services
