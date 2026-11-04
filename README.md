@@ -381,6 +381,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### Participant Resources & Inspiration
 - **[Evernote Design](https://evernote.design/)** - Curated design resources for participants
 - **[HACKERS](https://hackers.pocketplay.win/en/)** - Live Devpost hackathons and Kaggle competitions ranked by a transparent beginner score, with deadlines and first-timer guides
+- **[Hybrid Demo Rehearsal Worksheet](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf)** - Free printable checklist to test whether remote viewers can follow details in shared slides or a demo window.
 - **[Kaggle Datasets](https://www.kaggle.com/datasets)** - Open datasets for data-driven projects
 - **[RapidAPI](https://rapidapi.com/)** - API marketplace for finding external APIs
 
