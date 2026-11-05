@@ -351,6 +351,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 
 ### Project Starters & Boilerplates
 - **[Hackathon Starter](https://github.com/sahat/hackathon-starter)** - Node.js web application boilerplate with auth and APIs
+- **[express-email-otp-login](https://github.com/parv15/express-email-otp-login)** - Passwordless email OTP and magic link login for Express, ready to drop into a hackathon app
 
 ### Testing & Quality Assurance
 - **[Cypress](https://www.cypress.io/)** - JavaScript end-to-end testing framework
