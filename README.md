@@ -335,6 +335,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Unarkhive](https://unarkhive.com/)** - Curated links across various categories, updated daily
 
 ### LLM Models/Tools/Services
+- **[Prompt Generator](https://trypromptgenerator.com)** - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free, no sign-up
 - **[YouLearn.AI](https://www.youlearn.ai)** - AI-powered learning platform for document analysis and Q&A
 
 ### MCP Servers/Tools
