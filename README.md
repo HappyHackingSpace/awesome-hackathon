@@ -329,6 +329,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### Inspiration & Ideas
 - **[CodeTrendy](https://codetrendy.com/)** - Curated directory of newly launched startups, SaaS and AI tools to browse for project ideas, with a free read-only MCP server
 - **[Evernote Design](https://evernote.design/)** - All-in-one bookmark links for designers
+- **[Hackathon Ideas](https://hackathonideas.com)** - 500+ free hackathon project ideas with stack, build steps and an idea picker
 - **[Saaspo](https://saaspo.com/)** - Best SaaS web design inspiration
 - **[saasui.design](https://saasui.design/)** - Top-tier SaaS application designs showcase
 - **[SCRNSHTS](https://scrnshts.club/)** - Hand-picked collection of app store design screenshots
