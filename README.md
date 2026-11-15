@@ -77,6 +77,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 ### APIs & Data Sources
 - **[CoinGecko](https://www.coingecko.com/en/api/documentation)** - Cryptocurrency price, market, and developer/social data
 - **[CurlShot](https://curlshot.com/)** - Screenshot API: one GET request turns a URL into PNG, JPEG, WebP or PDF (POST for raw HTML), free plan of 100 screenshots/month
+- **[GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)** - YouTube transcripts as JSON with timestamps, plus video search and channel or playlist video lists over REST or MCP, 100 free credits on sign-up
 - **[JsonPlaceholder](https://jsonplaceholder.typicode.com/)** - Fake online REST API for quick prototyping and testing
 - **[Mapbox](https://www.mapbox.com/)** - Easy-to-use maps and geolocation service with generous free tier
 - **[Mockaroo](https://www.mockaroo.com/)** - Generate up to 1,000 rows of test data in multiple formats
