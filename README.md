@@ -137,7 +137,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[OWASP ZAP](https://www.zaproxy.org/)** - Open-source web application security scanner
 - **[Sqlmap](http://sqlmap.org/)** - Penetration testing tool for SQL injection detection
 - **[Sudomy](https://github.com/Screetsec/Sudomy)** - Subdomain enumeration tool for reconnaissance
-- **[VibeShield](https://vibe-checker.appwrite.network)** - Free passive 116-check pre-launch security scanner for hackathon web apps covering client JS secret leaks, security headers, and Supabase/Firebase exposure
+- **[VibeShield](https://vibe-checker.appwrite.network)** - Free read-only 116-check pre-launch security scanner for hackathon web apps covering client JS secret leaks, security headers, and Supabase/Firebase exposure
 - **[Wfuzz](https://github.com/xmendez/wfuzz)** - Web application fuzz testing CLI tool
 - **[Wireshark](https://www.wireshark.org/)** - Network protocol analyzer for debugging
 
